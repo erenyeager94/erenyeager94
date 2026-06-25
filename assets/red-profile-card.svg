@@ -1,120 +1,132 @@
-<svg width="1200" height="880" viewBox="0 0 1200 880" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
     @keyframes glow {
-      0%,100% { filter: drop-shadow(0 0 8px #ff4d6d); opacity:.85; }
-      50% { filter: drop-shadow(0 0 25px #ff4d6d); opacity:1; }
+      0%,100% { filter: drop-shadow(0 0 6px #7a0019); opacity:.90; }
+      50% { filter: drop-shadow(0 0 18px #7a0019); opacity:1; }
     }
 
     @keyframes scan {
       0% { transform: translateY(-70px); opacity:0; }
-      20% { opacity:.75; }
+      20% { opacity:.40; }
       100% { transform: translateY(950px); opacity:0; }
     }
 
     @keyframes move {
-      0% { transform: translateY(-900px); opacity:.12; }
-      50% { opacity:.8; }
-      100% { transform: translateY(900px); opacity:.12; }
+      0% { transform: translateY(-900px); opacity:.08; }
+      50% { opacity:.55; }
+      100% { transform: translateY(900px); opacity:.08; }
     }
 
     @keyframes dash {
       to { stroke-dashoffset:-180; }
     }
 
-    .bg { fill:#050000; }
-    .gif { opacity:.38; }
-    .overlay { fill:#050000; opacity:.72; }
-    .red { fill:#ff4d6d; opacity:.10; }
+    .bg { fill:#040000; }
+    .gif { opacity:.48; }
+    .overlay { fill:#040000; opacity:.76; }
+    .red { fill:#7a0019; opacity:.10; }
 
     .card {
-      fill:rgba(12,0,5,.86);
-      stroke:#ff4d6d;
+      fill:rgba(6,0,1,.92);
+      stroke:#4a000f;
       stroke-width:2;
-      filter:drop-shadow(0 0 18px #ff4d6d);
+      animation:glow 3s ease-in-out infinite;
     }
 
-    .card2 {
-      fill:rgba(18,0,7,.75);
-      stroke:#ff8fa3;
+    .panel {
+      fill:rgba(12,0,4,.88);
+      stroke:#7a0019;
       stroke-width:1.5;
-      opacity:.95;
     }
 
     .title {
-      font-family:"Share Tech Mono","Courier New",monospace;
-      font-size:34px;
+      font-family:"Courier New",monospace;
+      font-size:32px;
       font-weight:900;
-      fill:#ff4d6d;
-      animation:glow 2.4s ease-in-out infinite;
+      fill:#b11226;
+      letter-spacing:1px;
     }
 
     .head {
-      font-family:"Share Tech Mono","Courier New",monospace;
-      font-size:22px;
+      font-family:"Courier New",monospace;
+      font-size:20px;
       font-weight:900;
-      fill:#ffd0da;
+      fill:#e7c6cc;
     }
 
     .text {
-      font-family:"Share Tech Mono","Courier New",monospace;
-      font-size:20px;
+      font-family:"Courier New",monospace;
+      font-size:18px;
       fill:#ffffff;
     }
 
+    .small {
+      font-family:"Courier New",monospace;
+      font-size:16px;
+      fill:#c98b96;
+    }
+
     .muted {
-      font-family:"Share Tech Mono","Courier New",monospace;
-      font-size:18px;
-      fill:#ffb3c1;
+      font-family:"Courier New",monospace;
+      font-size:17px;
+      fill:#b57b85;
     }
 
-    .skill {
-      fill:#20000a;
-      stroke:#ff4d6d;
-      stroke-width:1;
-    }
-
-    .barbg { fill:#180006; }
-    .bar { fill:#ff4d6d; filter:drop-shadow(0 0 8px #ff4d6d); }
-    .bar2 { fill:#ff8fa3; }
+    .barbg { fill:#160006; stroke:#3b000c; stroke-width:1; }
+    .bar { fill:#7a0019; filter:drop-shadow(0 0 7px #7a0019); }
+    .barLight { fill:#b11226; }
 
     .matrix {
       font-family:"Courier New",monospace;
       font-size:17px;
-      fill:#ff4d6d;
-      opacity:.5;
+      fill:#7a0019;
+      opacity:.45;
       animation:move 9s linear infinite;
     }
 
-    .matrix2 { animation-delay:3s; opacity:.35; }
+    .matrix2 { animation-delay:3s; opacity:.30; }
 
     .scan {
-      fill:#ff4d6d;
-      opacity:.22;
+      fill:#7a0019;
+      opacity:.20;
       animation:scan 4s linear infinite;
     }
 
     .dash {
-      stroke:#ff4d6d;
+      stroke:#7a0019;
       stroke-width:2;
       stroke-dasharray:16 10;
       animation:dash 5s linear infinite;
-      opacity:.65;
+      opacity:.55;
+    }
+
+    .pill {
+      fill:#100004;
+      stroke:#4a000f;
+      stroke-width:1;
+    }
+
+    .pillText {
+      font-family:"Courier New",monospace;
+      font-size:16px;
+      font-weight:900;
+      fill:#e7c6cc;
     }
   </style>
 
-  <rect class="bg" width="1200" height="880" rx="28"/>
+  <rect class="bg" width="1200" height="900" rx="0"/>
 
-  <image class="gif" href="https://raw.githubusercontent.com/erenyeager94/erenyeager94/main/assets/lose_hacker.gif" x="0" y="0" width="1200" height="880" preserveAspectRatio="xMidYMid slice"/>
+  <image class="gif" href="https://raw.githubusercontent.com/erenyeager94/erenyeager94/main/assets/lose_hacker.gif" x="0" y="0" width="1200" height="900" preserveAspectRatio="xMidYMid slice"/>
 
-  <rect class="overlay" width="1200" height="880" rx="28"/>
-  <rect class="red" width="1200" height="880" rx="28"/>
+  <rect class="overlay" width="1200" height="900" rx="0"/>
+  <rect class="red" width="1200" height="900" rx="0"/>
 
   <g class="matrix">
-    <text x="40" y="70">010101 110010 ACCESS_GRANTED ROOT@YEAGER</text>
+    <text x="40" y="70">010101 110010 ACCESS GRANTED ROOT YEAGER</text>
     <text x="760" y="120">SYSTEM ONLINE</text>
     <text x="65" y="230">FRONTEND ACTIVE</text>
     <text x="810" y="350">BUILD SUCCESS</text>
-    <text x="70" y="520">RUNNING CODE...</text>
+    <text x="70" y="520">RUNNING CODE</text>
     <text x="760" y="680">NO BUGS FOUND</text>
   </g>
 
@@ -125,87 +137,106 @@
     <text x="80" y="760">CODE DEPLOYED</text>
   </g>
 
-  <rect class="scan" x="0" y="0" width="1200" height="36"/>
+  <rect class="scan" x="0" y="0" width="1200" height="34"/>
 
-  <path class="dash" d="M70 55H1130"/>
-  <path class="dash" d="M70 825H1130"/>
+  <path class="dash" d="M60 48H1140"/>
+  <path class="dash" d="M60 850H1140"/>
 
   <!-- ABOUT CARD -->
-  <rect class="card" x="55" y="80" width="520" height="330" rx="24"/>
-  <text class="title" x="90" y="135">🩸 About Me</text>
+  <rect class="card" x="55" y="80" width="510" height="330" rx="0"/>
+  <text class="title" x="90" y="130">ABOUT ME</text>
 
-  <rect class="card2" x="90" y="165" width="445" height="42" rx="10"/>
-  <text class="head" x="115" y="193">Name</text>
-  <text class="text" x="300" y="193">Yeager</text>
+  <rect class="panel" x="90" y="158" width="440" height="38" rx="0"/>
+  <text class="head" x="112" y="183">Name</text>
+  <text class="text" x="280" y="183">Yeager</text>
 
-  <rect class="card2" x="90" y="215" width="445" height="42" rx="10"/>
-  <text class="head" x="115" y="243">Role</text>
-  <text class="text" x="300" y="243">Frontend Developer</text>
+  <rect class="panel" x="90" y="205" width="440" height="38" rx="0"/>
+  <text class="head" x="112" y="230">Role</text>
+  <text class="text" x="280" y="230">Frontend Developer</text>
 
-  <rect class="card2" x="90" y="265" width="445" height="42" rx="10"/>
-  <text class="head" x="115" y="293">Location</text>
-  <text class="text" x="300" y="293">India</text>
+  <rect class="panel" x="90" y="252" width="440" height="38" rx="0"/>
+  <text class="head" x="112" y="277">Location</text>
+  <text class="text" x="280" y="277">India</text>
 
-  <rect class="card2" x="90" y="315" width="445" height="42" rx="10"/>
-  <text class="head" x="115" y="343">Focus</text>
-  <text class="text" x="300" y="343">Frontend Development</text>
+  <rect class="panel" x="90" y="299" width="440" height="38" rx="0"/>
+  <text class="head" x="112" y="324">Focus</text>
+  <text class="text" x="280" y="324">Frontend Development</text>
 
-  <text class="muted" x="90" y="385">Code | Debug | Build | Repeat ⚡</text>
+  <text class="muted" x="90" y="370">Code | Debug | Build | Repeat</text>
 
   <!-- TECH CARD -->
-  <rect class="card" x="625" y="80" width="520" height="330" rx="24"/>
-  <text class="title" x="660" y="135">🧠 Tech Arsenal</text>
+  <rect class="card" x="635" y="80" width="510" height="330" rx="0"/>
+  <text class="title" x="670" y="130">TECH ARSENAL</text>
 
-  <rect class="card2" x="660" y="165" width="455" height="50" rx="12"/>
-  <text class="head" x="685" y="197">Frontend</text>
-  <text class="text" x="835" y="197">HTML5 | CSS3 | SASS | JS | React</text>
+  <text class="head" x="670" y="172">Frontend</text>
+  <rect class="pill" x="670" y="188" width="75" height="30" rx="0"/>
+  <text class="pillText" x="686" y="208">HTML5</text>
+  <rect class="pill" x="758" y="188" width="65" height="30" rx="0"/>
+  <text class="pillText" x="776" y="208">CSS3</text>
+  <rect class="pill" x="836" y="188" width="65" height="30" rx="0"/>
+  <text class="pillText" x="856" y="208">SASS</text>
+  <rect class="pill" x="914" y="188" width="45" height="30" rx="0"/>
+  <text class="pillText" x="929" y="208">JS</text>
+  <rect class="pill" x="972" y="188" width="75" height="30" rx="0"/>
+  <text class="pillText" x="988" y="208">React</text>
 
-  <rect class="card2" x="660" y="230" width="455" height="50" rx="12"/>
-  <text class="head" x="685" y="262">Backend</text>
-  <text class="text" x="835" y="262">PHP | Python | Scala</text>
+  <text class="head" x="670" y="258">Backend</text>
+  <rect class="pill" x="670" y="274" width="55" height="30" rx="0"/>
+  <text class="pillText" x="687" y="294">PHP</text>
+  <rect class="pill" x="738" y="274" width="82" height="30" rx="0"/>
+  <text class="pillText" x="754" y="294">Python</text>
+  <rect class="pill" x="833" y="274" width="72" height="30" rx="0"/>
+  <text class="pillText" x="849" y="294">Scala</text>
 
-  <rect class="card2" x="660" y="295" width="455" height="50" rx="12"/>
-  <text class="head" x="685" y="327">Database</text>
-  <text class="text" x="835" y="327">MySQL | MongoDB</text>
+  <text class="head" x="670" y="344">Database / Tools</text>
+  <rect class="pill" x="670" y="360" width="70" height="30" rx="0"/>
+  <text class="pillText" x="686" y="380">MySQL</text>
+  <rect class="pill" x="753" y="360" width="90" height="30" rx="0"/>
+  <text class="pillText" x="769" y="380">MongoDB</text>
+  <rect class="pill" x="856" y="360" width="52" height="30" rx="0"/>
+  <text class="pillText" x="872" y="380">Git</text>
+  <rect class="pill" x="921" y="360" width="70" height="30" rx="0"/>
+  <text class="pillText" x="937" y="380">Linux</text>
+  <rect class="pill" x="1004" y="360" width="85" height="30" rx="0"/>
+  <text class="pillText" x="1020" y="380">GitHub</text>
 
-  <rect class="card2" x="660" y="360" width="455" height="50" rx="12"/>
-  <text class="head" x="685" y="392">Tools</text>
-  <text class="text" x="835" y="392">Git | Linux | GitHub | VS Code</text>
+  <!-- SKILL MATRIX -->
+  <rect class="card" x="55" y="455" width="1090" height="360" rx="0"/>
+  <text class="title" x="90" y="508">SKILL MATRIX</text>
 
-  <!-- SKILL MATRIX CARD -->
-  <rect class="card" x="55" y="455" width="1090" height="350" rx="24"/>
-  <text class="title" x="90" y="510">⚡ Skill Matrix</text>
+  <text class="head" x="95" y="565">HTML5</text>
+  <rect class="barbg" x="270" y="543" width="760" height="24" rx="0"/>
+  <rect class="bar" x="270" y="543" width="760" height="24" rx="0"/>
+  <text class="text" x="1055" y="563">100%</text>
 
-  <!-- Row 1 -->
-  <text class="head" x="95" y="570">HTML5</text>
-  <rect class="barbg" x="270" y="548" width="760" height="26" rx="13"/>
-  <rect class="bar" x="270" y="548" width="760" height="26" rx="13"/>
-  <text class="text" x="1050" y="570">100%</text>
+  <text class="head" x="95" y="610">CSS3</text>
+  <rect class="barbg" x="270" y="588" width="760" height="24" rx="0"/>
+  <rect class="bar" x="270" y="588" width="760" height="24" rx="0"/>
+  <text class="text" x="1055" y="608">100%</text>
 
-  <!-- Row 2 -->
-  <text class="head" x="95" y="615">CSS3</text>
-  <rect class="barbg" x="270" y="593" width="760" height="26" rx="13"/>
-  <rect class="bar" x="270" y="593" width="760" height="26" rx="13"/>
-  <text class="text" x="1050" y="615">100%</text>
+  <text class="head" x="95" y="655">JavaScript</text>
+  <rect class="barbg" x="270" y="633" width="760" height="24" rx="0"/>
+  <rect class="bar" x="270" y="633" width="684" height="24" rx="0"/>
+  <rect class="barLight" x="948" y="633" width="6" height="24" rx="0"/>
+  <text class="text" x="1055" y="653">90%</text>
 
-  <!-- Row 3 -->
-  <text class="head" x="95" y="660">JavaScript</text>
-  <rect class="barbg" x="270" y="638" width="760" height="26" rx="13"/>
-  <rect class="bar" x="270" y="638" width="684" height="26" rx="13"/>
-  <rect class="bar2" x="950" y="638" width="4" height="26"/>
-  <text class="text" x="1050" y="660">90%</text>
+  <text class="head" x="95" y="700">React</text>
+  <rect class="barbg" x="270" y="678" width="760" height="24" rx="0"/>
+  <rect class="bar" x="270" y="678" width="608" height="24" rx="0"/>
+  <rect class="barLight" x="872" y="678" width="6" height="24" rx="0"/>
+  <text class="text" x="1055" y="698">80%</text>
 
-  <!-- Row 4 -->
-  <text class="head" x="95" y="705">React</text>
-  <rect class="barbg" x="270" y="683" width="760" height="26" rx="13"/>
-  <rect class="bar" x="270" y="683" width="608" height="26" rx="13"/>
-  <text class="text" x="1050" y="705">80%</text>
+  <text class="head" x="95" y="745">PHP</text>
+  <rect class="barbg" x="270" y="723" width="760" height="24" rx="0"/>
+  <rect class="bar" x="270" y="723" width="684" height="24" rx="0"/>
+  <rect class="barLight" x="948" y="723" width="6" height="24" rx="0"/>
+  <text class="text" x="1055" y="743">90%</text>
 
-  <!-- Row 5 -->
-  <text class="head" x="95" y="750">PHP / MySQL</text>
-  <rect class="barbg" x="270" y="728" width="760" height="26" rx="13"/>
-  <rect class="bar" x="270" y="728" width="684" height="26" rx="13"/>
-  <text class="text" x="1050" y="750">90%</text>
+  <text class="head" x="95" y="790">MySQL</text>
+  <rect class="barbg" x="270" y="768" width="760" height="24" rx="0"/>
+  <rect class="bar" x="270" y="768" width="646" height="24" rx="0"/>
+  <rect class="barLight" x="910" y="768" width="6" height="24" rx="0"/>
+  <text class="text" x="1055" y="788">85%</text>
 
-  <text class="muted" x="90" y="785">Clean UI • Responsive Design • Modern Frontend • Fast Debugging</text>
+  <text class="small" x="90" y="845">Clean UI • Responsive Design • Modern Frontend • Fast Debugging</text>
 </svg>
