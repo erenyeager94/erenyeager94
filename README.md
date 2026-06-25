@@ -32,7 +32,7 @@
 
 ## 🩸 About Me
 
-<img align="right" width="360" src="assest/hacker1.gif" alt="Coding GIF" />
+<img align="right" width="360" src="assets/hacker1.gif" alt="Coding GIF" />
 
 <table>
   <tr>
