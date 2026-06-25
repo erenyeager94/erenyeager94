@@ -263,4 +263,4 @@ Coming soon 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,50:003b00,100:00ff41&section=footer" width="100%" alt="Footer" />
 
-</div>
+</div># erenyeager94
