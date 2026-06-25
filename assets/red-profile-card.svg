@@ -133,7 +133,7 @@
 
   <rect class="bg" width="1200" height="960" rx="0"/>
 
-  <image class="gif" href="https://raw.githubusercontent.com/erenyeager94/erenyeager94/main/assets/lose_hacker.gif" x="0" y="0" width="1200" height="960" preserveAspectRatio="xMidYMid slice"/>
+  <image class="gif" href="https://raw.githubusercontent.com/erenyeager94/erenyeager94/main/assets/hacker.gif" x="0" y="0" width="1200" height="960" preserveAspectRatio="xMidYMid slice"/>
 
   <rect class="overlay" width="1200" height="960" rx="0"/>
   <rect class="red" width="1200" height="960" rx="0"/>
