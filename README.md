@@ -8,9 +8,9 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ErenYeager&label=PROFILE%20VISITS&color=00ff41&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/ErenYeager?label=FOLLOWERS&style=for-the-badge&color=00ff41" alt="Followers" />
-<img src="https://img.shields.io/github/stars/ErenYeager?label=STARS&style=for-the-badge&color=00ff41" alt="Stars" />
+<img src="https://komarev.com/ghpvc/?username=erenyeager94&label=PROFILE%20VISITS&color=00ff41&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/erenyeager94?label=FOLLOWERS&style=for-the-badge&color=00ff41" alt="Followers" />
+<img src="https://img.shields.io/github/stars/erenyeager94?label=STARS&style=for-the-badge&color=00ff41" alt="Stars" />
 
 </div>
 
@@ -186,13 +186,13 @@ Coming soon 🚀
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ErenYeager&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=ffffff" alt="ErenYeager GitHub Stats" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=erenyeager94&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=ffffff" alt="erenyeager94 GitHub Stats" />
 
-<img width="48%" src="https://streak-stats.demolab.com?user=ErenYeager&theme=chartreuse-dark&hide_border=true&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=ffffff&dates=ffffff" alt="ErenYeager Streak Stats" />
+<img width="48%" src="https://streak-stats.demolab.com?user=erenyeager94&theme=chartreuse-dark&hide_border=true&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=ffffff&dates=ffffff" alt="erenyeager94 Streak Stats" />
 
 <br><br>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ErenYeager&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=ffffff" alt="ErenYeager Top Languages" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=erenyeager94&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=ffffff" alt="erenyeager94 Top Languages" />
 
 </div>
 
@@ -203,7 +203,7 @@ Coming soon 🚀
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=ErenYeager&theme=matrix&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="ErenYeager Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=erenyeager94&theme=matrix&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="erenyeager94 Trophy" />
 </a>
 
 </div>
@@ -214,7 +214,7 @@ Coming soon 🚀
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ErenYeager&theme=github-compact&hide_border=true&bg_color=000000&color=00ff41&line=00ff41&point=ffffff" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=erenyeager94&theme=github-compact&hide_border=true&bg_color=000000&color=00ff41&line=00ff41&point=ffffff" width="100%" alt="Activity Graph" />
 
 </div>
 
@@ -232,7 +232,7 @@ Coming soon 🚀
 <img src="https://img.shields.io/badge/Instagram-001100?style=for-the-badge&logo=instagram&logoColor=00ff41" alt="instagram" />
 </a>
 
-<a target="_blank" href="https://github.com/ErenYeager">
+<a target="_blank" href="https://github.com/erenyeager94">
 <img src="https://img.shields.io/badge/GitHub-001100?style=for-the-badge&logo=github&logoColor=00ff41" alt="github" />
 </a>
 
@@ -263,4 +263,4 @@ Coming soon 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,50:003b00,100:00ff41&section=footer" width="100%" alt="Footer" />
 
-</div># erenyeager94
+</div># erenyeager9494
