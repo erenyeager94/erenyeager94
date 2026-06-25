@@ -1,8 +1,16 @@
 <svg width="1200" height="960" viewBox="0 0 1200 960" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
+    @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700;800;900&family=Share+Tech+Mono&display=swap');
+
     @keyframes glow {
-      0%,100% { filter: drop-shadow(0 0 6px #7a0019); opacity:.90; }
-      50% { filter: drop-shadow(0 0 18px #7a0019); opacity:1; }
+      0%,100% {
+        filter: drop-shadow(0 0 8px #7a0019) drop-shadow(0 0 16px #7a0019) drop-shadow(0 0 28px #b11226);
+        opacity:.92;
+      }
+      50% {
+        filter: drop-shadow(0 0 14px #7a0019) drop-shadow(0 0 30px #7a0019) drop-shadow(0 0 44px #b11226);
+        opacity:1;
+      }
     }
 
     @keyframes scan {
@@ -40,44 +48,52 @@
     }
 
     .title {
-      font-family:"Courier New",monospace;
+      font-family:"Orbitron","Arial Black",sans-serif;
       font-size:32px;
       font-weight:900;
-      fill:#b11226;
-      letter-spacing:1px;
+      fill:#d61c3b;
+      letter-spacing:2px;
+      animation:glow 2.4s ease-in-out infinite;
     }
 
     .head {
-      font-family:"Courier New",monospace;
+      font-family:"Orbitron","Arial Black",sans-serif;
       font-size:20px;
       font-weight:900;
-      fill:#e7c6cc;
+      fill:#f0d7dc;
+      letter-spacing:1px;
     }
 
     .text {
-      font-family:"Courier New",monospace;
+      font-family:"Share Tech Mono","Courier New",monospace;
       font-size:18px;
       fill:#ffffff;
+      font-weight:700;
     }
 
     .small {
-      font-family:"Courier New",monospace;
+      font-family:"Share Tech Mono","Courier New",monospace;
       font-size:16px;
       fill:#c98b96;
+      font-weight:700;
     }
 
     .muted {
-      font-family:"Courier New",monospace;
+      font-family:"Share Tech Mono","Courier New",monospace;
       font-size:17px;
-      fill:#b57b85;
+      fill:#d0a3ab;
+      font-weight:700;
     }
 
     .barbg { fill:#160006; stroke:#3b000c; stroke-width:1; }
-    .bar { fill:#7a0019; filter:drop-shadow(0 0 7px #7a0019); }
-    .barLight { fill:#b11226; }
+    .bar {
+      fill:#7a0019;
+      filter:drop-shadow(0 0 7px #7a0019) drop-shadow(0 0 14px #7a0019);
+    }
+    .barLight { fill:#d61c3b; }
 
     .matrix {
-      font-family:"Courier New",monospace;
+      font-family:"Share Tech Mono","Courier New",monospace;
       font-size:17px;
       fill:#7a0019;
       opacity:.45;
@@ -107,10 +123,11 @@
     }
 
     .pillText {
-      font-family:"Courier New",monospace;
-      font-size:16px;
+      font-family:"Orbitron","Arial Black",sans-serif;
+      font-size:14px;
       font-weight:900;
-      fill:#e7c6cc;
+      fill:#f0d7dc;
+      letter-spacing:.6px;
     }
   </style>
 
@@ -149,19 +166,19 @@
   <text class="title" x="90" y="130">ABOUT ME</text>
 
   <rect class="panel" x="90" y="158" width="440" height="38" rx="0"/>
-  <text class="head" x="112" y="183">Name</text>
+  <text class="head" x="112" y="183">NAME</text>
   <text class="text" x="280" y="183">Yeager</text>
 
   <rect class="panel" x="90" y="205" width="440" height="38" rx="0"/>
-  <text class="head" x="112" y="230">Role</text>
+  <text class="head" x="112" y="230">ROLE</text>
   <text class="text" x="280" y="230">Frontend Developer</text>
 
   <rect class="panel" x="90" y="252" width="440" height="38" rx="0"/>
-  <text class="head" x="112" y="277">Location</text>
+  <text class="head" x="112" y="277">LOCATION</text>
   <text class="text" x="280" y="277">India</text>
 
   <rect class="panel" x="90" y="299" width="440" height="38" rx="0"/>
-  <text class="head" x="112" y="324">Focus</text>
+  <text class="head" x="112" y="324">FOCUS</text>
   <text class="text" x="280" y="324">Frontend Development</text>
 
   <text class="muted" x="90" y="370">Code | Debug | Build | Repeat</text>
@@ -170,37 +187,37 @@
   <rect class="card" x="635" y="80" width="510" height="330" rx="0"/>
   <text class="title" x="670" y="130">TECH ARSENAL</text>
 
-  <text class="head" x="670" y="172">Frontend</text>
+  <text class="head" x="670" y="172">FRONTEND</text>
   <rect class="pill" x="670" y="188" width="75" height="30" rx="0"/>
-  <text class="pillText" x="686" y="208">HTML5</text>
+  <text class="pillText" x="684" y="208">HTML5</text>
   <rect class="pill" x="758" y="188" width="65" height="30" rx="0"/>
-  <text class="pillText" x="776" y="208">CSS3</text>
+  <text class="pillText" x="772" y="208">CSS3</text>
   <rect class="pill" x="836" y="188" width="65" height="30" rx="0"/>
-  <text class="pillText" x="856" y="208">SASS</text>
+  <text class="pillText" x="850" y="208">SASS</text>
   <rect class="pill" x="914" y="188" width="45" height="30" rx="0"/>
-  <text class="pillText" x="929" y="208">JS</text>
+  <text class="pillText" x="926" y="208">JS</text>
   <rect class="pill" x="972" y="188" width="75" height="30" rx="0"/>
-  <text class="pillText" x="988" y="208">React</text>
+  <text class="pillText" x="986" y="208">REACT</text>
 
-  <text class="head" x="670" y="258">Backend</text>
+  <text class="head" x="670" y="258">BACKEND</text>
   <rect class="pill" x="670" y="274" width="55" height="30" rx="0"/>
-  <text class="pillText" x="687" y="294">PHP</text>
+  <text class="pillText" x="684" y="294">PHP</text>
   <rect class="pill" x="738" y="274" width="82" height="30" rx="0"/>
-  <text class="pillText" x="754" y="294">Python</text>
+  <text class="pillText" x="750" y="294">PYTHON</text>
   <rect class="pill" x="833" y="274" width="72" height="30" rx="0"/>
-  <text class="pillText" x="849" y="294">Scala</text>
+  <text class="pillText" x="847" y="294">SCALA</text>
 
-  <text class="head" x="670" y="344">Database / Tools</text>
+  <text class="head" x="670" y="344">DATABASE / TOOLS</text>
   <rect class="pill" x="670" y="360" width="70" height="30" rx="0"/>
-  <text class="pillText" x="686" y="380">MySQL</text>
+  <text class="pillText" x="682" y="380">MYSQL</text>
   <rect class="pill" x="753" y="360" width="90" height="30" rx="0"/>
-  <text class="pillText" x="769" y="380">MongoDB</text>
+  <text class="pillText" x="766" y="380">MONGODB</text>
   <rect class="pill" x="856" y="360" width="52" height="30" rx="0"/>
-  <text class="pillText" x="872" y="380">Git</text>
+  <text class="pillText" x="870" y="380">GIT</text>
   <rect class="pill" x="921" y="360" width="70" height="30" rx="0"/>
-  <text class="pillText" x="937" y="380">Linux</text>
+  <text class="pillText" x="934" y="380">LINUX</text>
   <rect class="pill" x="1004" y="360" width="85" height="30" rx="0"/>
-  <text class="pillText" x="1020" y="380">GitHub</text>
+  <text class="pillText" x="1015" y="380">GITHUB</text>
 
   <!-- SKILL MATRIX -->
   <rect class="card" x="55" y="455" width="1090" height="430" rx="0"/>
@@ -216,13 +233,13 @@
   <rect class="bar" x="270" y="588" width="760" height="24" rx="0"/>
   <text class="text" x="1055" y="608">100%</text>
 
-  <text class="head" x="95" y="655">JavaScript</text>
+  <text class="head" x="95" y="655">JAVASCRIPT</text>
   <rect class="barbg" x="270" y="633" width="760" height="24" rx="0"/>
   <rect class="bar" x="270" y="633" width="684" height="24" rx="0"/>
   <rect class="barLight" x="948" y="633" width="6" height="24" rx="0"/>
   <text class="text" x="1055" y="653">90%</text>
 
-  <text class="head" x="95" y="700">React</text>
+  <text class="head" x="95" y="700">REACT</text>
   <rect class="barbg" x="270" y="678" width="760" height="24" rx="0"/>
   <rect class="bar" x="270" y="678" width="608" height="24" rx="0"/>
   <rect class="barLight" x="872" y="678" width="6" height="24" rx="0"/>
@@ -234,13 +251,13 @@
   <rect class="barLight" x="948" y="723" width="6" height="24" rx="0"/>
   <text class="text" x="1055" y="743">90%</text>
 
-  <text class="head" x="95" y="790">Python</text>
+  <text class="head" x="95" y="790">PYTHON</text>
   <rect class="barbg" x="270" y="768" width="760" height="24" rx="0"/>
   <rect class="bar" x="270" y="768" width="570" height="24" rx="0"/>
   <rect class="barLight" x="834" y="768" width="6" height="24" rx="0"/>
   <text class="text" x="1055" y="788">75%</text>
 
-  <text class="head" x="95" y="835">MySQL</text>
+  <text class="head" x="95" y="835">MYSQL</text>
   <rect class="barbg" x="270" y="813" width="760" height="24" rx="0"/>
   <rect class="bar" x="270" y="813" width="646" height="24" rx="0"/>
   <rect class="barLight" x="910" y="813" width="6" height="24" rx="0"/>

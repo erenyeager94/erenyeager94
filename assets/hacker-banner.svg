@@ -1,8 +1,10 @@
 <svg width="1200" height="390" viewBox="0 0 1200 390" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
+    @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700;800;900&family=Share+Tech+Mono&display=swap');
+
     @keyframes glow {
-      0%,100% { opacity:.78; filter: drop-shadow(0 0 8px #7a0019); }
-      50% { opacity:1; filter: drop-shadow(0 0 24px #b11226); }
+      0%,100% { opacity:.85; filter: drop-shadow(0 0 10px #7a0019) drop-shadow(0 0 20px #7a0019) drop-shadow(0 0 35px #b11226); }
+      50% { opacity:1; filter: drop-shadow(0 0 18px #7a0019) drop-shadow(0 0 35px #7a0019) drop-shadow(0 0 55px #b11226); }
     }
 
     @keyframes scan {
@@ -37,7 +39,7 @@
     }
 
     .matrix {
-      font-family:"Courier New",monospace;
+      font-family:"Share Tech Mono","Courier New",monospace;
       fill:#8c1022;
       font-size:18px;
       opacity:.50;
@@ -48,14 +50,14 @@
     .matrix3 { animation-delay:4s; opacity:.25; }
 
     .box {
-      fill:rgba(5,0,1,.90);
+      fill:rgba(5,0,1,.92);
       stroke:#7a0019;
       stroke-width:2;
       animation:glow 2.8s ease-in-out infinite;
     }
 
     .inner {
-      fill:rgba(15,0,4,.86);
+      fill:rgba(15,0,4,.88);
       stroke:#3b000c;
       stroke-width:1.5;
     }
@@ -63,24 +65,26 @@
     .topbar { fill:#120004; }
 
     .title {
-      font-family:"Courier New",monospace;
+      font-family:"Orbitron","Arial Black",sans-serif;
       font-size:58px;
       font-weight:900;
-      letter-spacing:2px;
-      fill:#b11226;
+      letter-spacing:3px;
+      fill:#d61c3b;
       animation:glow 2.2s ease-in-out infinite;
     }
 
     .subtitle {
-      font-family:"Courier New",monospace;
+      font-family:"Share Tech Mono","Courier New",monospace;
       font-size:22px;
-      fill:#e7c6cc;
+      fill:#f0d7dc;
+      font-weight:700;
     }
 
     .small {
-      font-family:"Courier New",monospace;
+      font-family:"Share Tech Mono","Courier New",monospace;
       font-size:15px;
-      fill:#9e2536;
+      fill:#b83a4f;
+      font-weight:700;
     }
 
     .scan {
@@ -178,14 +182,14 @@
 
     <circle cx="190" cy="102" r="8" fill="#7a0019"/>
     <circle cx="222" cy="102" r="8" fill="#9e2536"/>
-    <circle cx="254" cy="102" r="8" fill="#b11226"/>
+    <circle cx="254" cy="102" r="8" fill="#d61c3b"/>
 
     <text x="600" y="108" text-anchor="middle" class="small">
       dark-red-hacker@yeager: ~/github-profile
     </text>
 
     <text x="600" y="198" text-anchor="middle" class="title">
-      Hi, I'm Yeager
+      HI, I'M YEAGER
     </text>
 
     <text x="600" y="245" text-anchor="middle" class="subtitle">
