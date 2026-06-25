@@ -112,7 +112,7 @@
 
   <rect class="bg" width="1200" height="390" rx="0"/>
 
-  <image class="gif" href="https://raw.githubusercontent.com/erenyeager94/erenyeager94/main/assets/lose_hacker.gif" x="0" y="0" width="1200" height="390" preserveAspectRatio="xMidYMid slice"/>
+  <!-- <image class="gif" href="https://raw.githubusercontent.com/erenyeager94/erenyeager94/main/assets/lose_hacker.gif" x="0" y="0" width="1200" height="390" preserveAspectRatio="xMidYMid slice"/> -->
 
   <rect class="dark" width="1200" height="390" rx="0"/>
   <rect class="red" width="1200" height="390" rx="0"/>
