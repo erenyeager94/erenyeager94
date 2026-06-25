@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/hacker.gif" width="100%" alt="Red Hacker Banner" />
+<img src="./assets/hacker-banner.svg" width="100%" alt="Red Hacker Banner" />
 
-<br>
+<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&duration=2200&pause=750&color=FF4D6D&center=true&vCenter=true&width=950&lines=%3E+Initializing+Yeager.exe...;%3E+Frontend+Developer+Activated;%3E+CSS+%7C+PHP+%7C+JavaScript+%7C+Python;%3E+React+%7C+MongoDB+%7C+MySQL+%7C+Linux;%3E+Red+Hacker+Mode+Enabled+%E2%9A%A1" alt="Typing Animation" />
 
@@ -11,6 +11,10 @@
 <img src="https://komarev.com/ghpvc/?username=erenyeager94&label=PROFILE%20VISITS&color=ff4d6d&style=for-the-badge" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/erenyeager94?label=FOLLOWERS&style=for-the-badge&color=ff4d6d&labelColor=0d0d0d" alt="Followers" />
 <img src="https://img.shields.io/github/stars/erenyeager94?label=STARS&style=for-the-badge&color=ff4d6d&labelColor=0d0d0d" alt="Stars" />
+
+<br><br>
+
+<img src="./assets/lose_hacker.gif" width="85%" alt="Hacker GIF" />
 
 </div>
 
@@ -32,12 +36,12 @@
 
 ## 🩸 About Me
 
-<img align="right" width="360" src="assets/hacker1.gif" alt="Coding GIF" />
+<div align="center">
 
 <table>
   <tr>
-    <td align="center" width="180"><b>🧑 Name</b></td>
-    <td align="center" width="450">Yeager</td>
+    <td align="center" width="190"><b>🧑 Name</b></td>
+    <td align="center" width="470">Yeager</td>
   </tr>
   <tr>
     <td align="center"><b>💼 Role</b></td>
@@ -65,7 +69,13 @@
   </tr>
 </table>
 
-<br clear="right"/>
+<br>
+
+<img src="https://img.shields.io/badge/Clean_UI-ff4d6d?style=for-the-badge&labelColor=090909" />
+<img src="https://img.shields.io/badge/Responsive_Websites-ff4d6d?style=for-the-badge&labelColor=090909" />
+<img src="https://img.shields.io/badge/Modern_Frontend-ff4d6d?style=for-the-badge&labelColor=090909" />
+
+</div>
 
 ---
 
@@ -74,62 +84,62 @@
 <div align="center">
 
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="58" height="58" />
 </a>
 &nbsp;&nbsp;
 
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="55" height="55" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="58" height="58" />
 </a>
 &nbsp;&nbsp;
 
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="58" height="58" />
 </a>
 &nbsp;&nbsp;
 
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="58" height="58" />
 </a>
 &nbsp;&nbsp;
 
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="55" height="55" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="58" height="58" />
 </a>
 &nbsp;&nbsp;
 
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="55" height="55" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="58" height="58" />
 </a>
 &nbsp;&nbsp;
 
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="58" height="58" />
 </a>
 &nbsp;&nbsp;
 
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="55" height="55" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="58" height="58" />
 </a>
 &nbsp;&nbsp;
 
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="55" height="55" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="58" height="58" />
 </a>
 &nbsp;&nbsp;
 
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="55" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="58" height="58" />
 </a>
 &nbsp;&nbsp;
 
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="55" height="55" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="58" height="58" />
 </a>
 &nbsp;&nbsp;
 
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55" />
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="58" height="58" />
 </a>
 
 </div>
@@ -150,10 +160,10 @@
 
 <table>
   <tr>
-    <td align="center"><b>Frontend</b></td>
-    <td align="center"><b>Backend</b></td>
-    <td align="center"><b>Database</b></td>
-    <td align="center"><b>Tools</b></td>
+    <td align="center"><b>🖥️ Frontend</b></td>
+    <td align="center"><b>⚙️ Backend</b></td>
+    <td align="center"><b>🗄️ Database</b></td>
+    <td align="center"><b>🛠️ Tools</b></td>
   </tr>
   <tr>
     <td align="center">HTML5</td>
@@ -170,28 +180,24 @@
   <tr>
     <td align="center">SASS</td>
     <td align="center">Scala</td>
-    <td align="center">-</td>
+    <td align="center">—</td>
     <td align="center">GitHub</td>
   </tr>
   <tr>
     <td align="center">JavaScript</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
+    <td align="center">—</td>
+    <td align="center">—</td>
     <td align="center">VS Code</td>
   </tr>
   <tr>
     <td align="center">React</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
+    <td align="center">—</td>
+    <td align="center">—</td>
     <td align="center">Terminal</td>
   </tr>
 </table>
 
-</div>
-
 <br>
-
-<div align="center">
 
 <img src="https://img.shields.io/badge/HTML5-Expert-ff4d6d?style=for-the-badge&labelColor=0d0d0d" />
 <img src="https://img.shields.io/badge/CSS3-Expert-ff4d6d?style=for-the-badge&labelColor=0d0d0d" />
@@ -211,55 +217,39 @@
 <table>
   <tr>
     <td align="center"><b>Skill</b></td>
-    <td align="center"><b>Level</b></td>
+    <td align="center"><b>Power Level</b></td>
   </tr>
   <tr>
     <td align="center">HTML5</td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/████████████████████-100%25-ff4d6d?style=for-the-badge&labelColor=0d0d0d" />
-    </td>
+    <td align="center"><img src="https://img.shields.io/badge/████████████████████-100%25-ff4d6d?style=for-the-badge&labelColor=0d0d0d" /></td>
   </tr>
   <tr>
     <td align="center">CSS3</td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/████████████████████-100%25-ff4d6d?style=for-the-badge&labelColor=0d0d0d" />
-    </td>
+    <td align="center"><img src="https://img.shields.io/badge/████████████████████-100%25-ff4d6d?style=for-the-badge&labelColor=0d0d0d" /></td>
   </tr>
   <tr>
     <td align="center">JavaScript</td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/██████████████████░░-90%25-ff4d6d?style=for-the-badge&labelColor=0d0d0d" />
-    </td>
+    <td align="center"><img src="https://img.shields.io/badge/██████████████████░░-90%25-ff4d6d?style=for-the-badge&labelColor=0d0d0d" /></td>
   </tr>
   <tr>
     <td align="center">React</td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/████████████████░░░░-80%25-ff4d6d?style=for-the-badge&labelColor=0d0d0d" />
-    </td>
+    <td align="center"><img src="https://img.shields.io/badge/████████████████░░░░-80%25-ff4d6d?style=for-the-badge&labelColor=0d0d0d" /></td>
   </tr>
   <tr>
     <td align="center">PHP</td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/██████████████████░░-90%25-ff4d6d?style=for-the-badge&labelColor=0d0d0d" />
-    </td>
+    <td align="center"><img src="https://img.shields.io/badge/██████████████████░░-90%25-ff4d6d?style=for-the-badge&labelColor=0d0d0d" /></td>
   </tr>
   <tr>
     <td align="center">Python</td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/███████████████░░░░░-75%25-ff4d6d?style=for-the-badge&labelColor=0d0d0d" />
-    </td>
+    <td align="center"><img src="https://img.shields.io/badge/███████████████░░░░░-75%25-ff4d6d?style=for-the-badge&labelColor=0d0d0d" /></td>
   </tr>
   <tr>
     <td align="center">MySQL</td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/█████████████████░░░-85%25-ff4d6d?style=for-the-badge&labelColor=0d0d0d" />
-    </td>
+    <td align="center"><img src="https://img.shields.io/badge/█████████████████░░░-85%25-ff4d6d?style=for-the-badge&labelColor=0d0d0d" /></td>
   </tr>
   <tr>
     <td align="center">Git / Linux</td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/████████████████░░░░-80%25-ff4d6d?style=for-the-badge&labelColor=0d0d0d" />
-    </td>
+    <td align="center"><img src="https://img.shields.io/badge/████████████████░░░░-80%25-ff4d6d?style=for-the-badge&labelColor=0d0d0d" /></td>
   </tr>
 </table>
 
