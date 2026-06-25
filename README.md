@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="./assets/hacker-banner.svg" width="100%" alt="Light Red Hacker Banner" />
+<img src="./assets/hacker-banner.svg" width="100%" alt="Red Hacker Banner" />
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=36&duration=2200&pause=750&color=ff002f&center=true&vCenter=true&width=1100&height=80&lines=%3E+INITIALIZING+YEAGER.EXE...;%3E+FRONTEND+DEVELOPER+ACTIVATED;%3E+CSS+%7C+PHP+%7C+JAVASCRIPT+%7C+PYTHON;%3E+REACT+%7C+MONGODB+%7C+MYSQL+%7C+LINUX;%3E+LIGHT+RED+HACKER+MODE+ENABLED" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=36&duration=2200&pause=750&color=FF0033&center=true&vCenter=true&width=1100&height=80&lines=%3E+INITIALIZING+YEAGER.EXE...;%3E+FRONTEND+DEVELOPER+ACTIVATED;%3E+CSS+%7C+PHP+%7C+JAVASCRIPT+%7C+PYTHON;%3E+REACT+%7C+MONGODB+%7C+MYSQL+%7C+LINUX;%3E+RED+HACKER+MODE+ENABLED" alt="Typing Animation" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=erenyeager94&label=PROFILE%20VISITS&color=ff002f&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/erenyeager94?label=FOLLOWERS&style=for-the-badge&color=ff002f&labelColor=050000" alt="Followers" />
-<img src="https://img.shields.io/github/stars/erenyeager94?label=STARS&style=for-the-badge&color=ff002f&labelColor=050000" alt="Stars" />
+<img src="https://komarev.com/ghpvc/?username=erenyeager94&label=PROFILE%20VISITS&color=ff0033&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/erenyeager94?label=FOLLOWERS&style=for-the-badge&color=ff0033&labelColor=050000" alt="Followers" />
+<img src="https://img.shields.io/github/stars/erenyeager94?label=STARS&style=for-the-badge&color=ff0033&labelColor=050000" alt="Stars" />
 
 <br><br>
 
@@ -26,7 +26,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&duration=3000&pause=1000&color=ff002f&center=true&vCenter=true&width=1000&height=80&lines=LANGUAGES+AND+TOOLS+I+USE" alt="Languages Heading" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&width=1000&height=80&lines=LANGUAGES+AND+TOOLS+I+USE" alt="Languages Heading" />
 
 </div>
 
@@ -105,19 +105,19 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&duration=3000&pause=1000&color=ff002f&center=true&vCenter=true&width=1000&height=80&lines=GITHUB+SYSTEM+STATS" alt="Stats Heading" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&width=1000&height=80&lines=GITHUB+SYSTEM+STATS" alt="Stats Heading" />
 
 </div>
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=erenyeager94&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=000000&title_color=ff002f&icon_color=ff002f&text_color=ffffff" alt="erenyeager94 GitHub Stats" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=erenyeager94&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=000000&title_color=ff0033&icon_color=ff0033&text_color=ffffff" alt="erenyeager94 GitHub Stats" />
 
-<img width="48%" src="https://streak-stats.demolab.com?user=erenyeager94&theme=radical&hide_border=true&background=000000&ring=ff002f&fire=ff002f&currStreakLabel=ff002f&sideLabels=ffffff&dates=ffffff" alt="erenyeager94 Streak Stats" />
+<img width="48%" src="https://streak-stats.demolab.com?user=erenyeager94&theme=radical&hide_border=true&background=000000&ring=ff0033&fire=ff0033&currStreakLabel=ff0033&sideLabels=ffffff&dates=ffffff" alt="erenyeager94 Streak Stats" />
 
 <br><br>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=erenyeager94&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=ff002f&text_color=ffffff" alt="erenyeager94 Top Languages" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=erenyeager94&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=ff0033&text_color=ffffff" alt="erenyeager94 Top Languages" />
 
 </div>
 
@@ -125,7 +125,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&duration=3000&pause=1000&color=ff002f&center=true&vCenter=true&width=1000&height=80&lines=GITHUB+TROPHY" alt="Trophy Heading" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&width=1000&height=80&lines=GITHUB+TROPHY" alt="Trophy Heading" />
 
 </div>
 
@@ -141,13 +141,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&duration=3000&pause=1000&color=ff002f&center=true&vCenter=true&width=1000&height=80&lines=ACTIVITY+GRAPH" alt="Activity Heading" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&width=1000&height=80&lines=ACTIVITY+GRAPH" alt="Activity Heading" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=erenyeager94&theme=react-dark&hide_border=true&bg_color=000000&color=ff002f&line=ff002f&point=ffffff" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=erenyeager94&theme=react-dark&hide_border=true&bg_color=000000&color=ff0033&line=ff0033&point=ffffff" width="100%" alt="Activity Graph" />
 
 </div>
 
@@ -155,22 +155,22 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&duration=3000&pause=1000&color=ff002f&center=true&vCenter=true&width=1000&height=80&lines=WHERE+TO+FIND+ME" alt="Social Heading" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&width=1000&height=80&lines=WHERE+TO+FIND+ME" alt="Social Heading" />
 
 </div>
 
 <div align="center">
 
 <a target="_blank" href="https://www.facebook.com/yeager010/">
-<img src="https://img.shields.io/badge/FACEBOOK-050000?style=for-the-badge&logo=facebook&logoColor=ff002f" alt="facebook" />
+<img src="https://img.shields.io/badge/FACEBOOK-050000?style=for-the-badge&logo=facebook&logoColor=ff0033" alt="facebook" />
 </a>
 
 <a target="_blank" href="https://www.instagram.com/yeager_010/">
-<img src="https://img.shields.io/badge/INSTAGRAM-050000?style=for-the-badge&logo=instagram&logoColor=ff002f" alt="instagram" />
+<img src="https://img.shields.io/badge/INSTAGRAM-050000?style=for-the-badge&logo=instagram&logoColor=ff0033" alt="instagram" />
 </a>
 
 <a target="_blank" href="https://github.com/erenyeager94">
-<img src="https://img.shields.io/badge/GITHUB-050000?style=for-the-badge&logo=github&logoColor=ff002f" alt="github" />
+<img src="https://img.shields.io/badge/GITHUB-050000?style=for-the-badge&logo=github&logoColor=ff0033" alt="github" />
 </a>
 
 </div>
@@ -179,7 +179,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&duration=3000&pause=1000&color=ff002f&center=true&vCenter=true&width=1000&height=80&lines=DEVELOPER+QUOTE" alt="Quote Heading" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&width=1000&height=80&lines=DEVELOPER+QUOTE" alt="Quote Heading" />
 
 </div>
 
@@ -193,10 +193,10 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=2800&pause=1000&color=ff002f&center=true&vCenter=true&width=900&height=80&lines=%3E+CONNECTION+CLOSED...;%3E+SEE+YOU+AGAIN;%3E+SYSTEM+LOGOUT+SUCCESSFUL" alt="Footer Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=2800&pause=1000&color=FF0033&center=true&vCenter=true&width=900&height=80&lines=%3E+CONNECTION+CLOSED...;%3E+SEE+YOU+AGAIN;%3E+SYSTEM+LOGOUT+SUCCESSFUL" alt="Footer Typing" />
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,50:5c0012,100:ff002f&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,50:5c0012,100:ff0033&section=footer" width="100%" alt="Footer" />
 
 </div>

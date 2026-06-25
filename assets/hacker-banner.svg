@@ -2,31 +2,25 @@
   <style>
     @keyframes glow {
       0%,100% {
-        opacity:.9;
-        filter:
-          drop-shadow(0 0 8px #ff002f)
-          drop-shadow(0 0 18px #ff002f)
-          drop-shadow(0 0 35px #ff002f);
+        opacity:.95;
+        filter: drop-shadow(0 0 5px #ff0033) drop-shadow(0 0 12px #ff0033);
       }
       50% {
         opacity:1;
-        filter:
-          drop-shadow(0 0 16px #ff002f)
-          drop-shadow(0 0 34px #ff002f)
-          drop-shadow(0 0 60px #ff002f);
+        filter: drop-shadow(0 0 8px #ff0033) drop-shadow(0 0 18px #ff0033);
       }
     }
 
     @keyframes scan {
       0% { transform: translateY(-60px); opacity:0; }
-      25% { opacity:.45; }
+      25% { opacity:.35; }
       100% { transform: translateY(430px); opacity:0; }
     }
 
     @keyframes move {
-      0% { transform: translateY(-390px); opacity:.07; }
-      50% { opacity:.45; }
-      100% { transform: translateY(390px); opacity:.07; }
+      0% { transform: translateY(-390px); opacity:.06; }
+      50% { opacity:.32; }
+      100% { transform: translateY(390px); opacity:.06; }
     }
 
     @keyframes borderDash {
@@ -39,36 +33,36 @@
     }
 
     .bg { fill:#030000; }
-    .dark { fill:#030000; opacity:.82; }
-    .red { fill:#ff8fa3; opacity:.08; }
+    .dark { fill:#030000; opacity:.86; }
+    .red { fill:#ff0033; opacity:.06; }
 
     .grid {
-      stroke:#ff8fa3;
-      stroke-opacity:.18;
+      stroke:#ff0033;
+      stroke-opacity:.14;
     }
 
     .matrix {
       font-family:"Courier New",monospace;
-      fill:#ff8fa3;
+      fill:#ff0033;
       font-size:18px;
-      opacity:.42;
+      opacity:.34;
       animation:move 8s linear infinite;
     }
 
-    .matrix2 { animation-delay:2s; opacity:.30; }
-    .matrix3 { animation-delay:4s; opacity:.22; }
+    .matrix2 { animation-delay:2s; opacity:.24; }
+    .matrix3 { animation-delay:4s; opacity:.18; }
 
     .box {
-      fill:rgba(5,0,1,.94);
-      stroke:#ff8fa3;
-      stroke-width:2.4;
+      fill:rgba(5,0,1,.96);
+      stroke:#ff0033;
+      stroke-width:2;
       animation:glow 2.8s ease-in-out infinite;
     }
 
     .inner {
-      fill:rgba(15,0,4,.90);
-      stroke:#ffb3c1;
-      stroke-width:1.6;
+      fill:rgba(15,0,4,.92);
+      stroke:#ff0033;
+      stroke-width:1.3;
     }
 
     .topbar { fill:#170006; }
@@ -78,41 +72,41 @@
       font-size:60px;
       font-weight:900;
       letter-spacing:3px;
-      fill:#ff8fa3;
+      fill:#ff0033;
       animation:glow 2.2s ease-in-out infinite;
     }
 
     .subtitle {
       font-family:"Courier New",monospace;
       font-size:23px;
-      fill:#ffe5ec;
+      fill:#ff0033;
       font-weight:900;
     }
 
     .small {
       font-family:"Courier New",monospace;
       font-size:15px;
-      fill:#ffccd5;
+      fill:#ff0033;
       font-weight:900;
     }
 
     .scan {
-      fill:#ff8fa3;
-      opacity:.23;
+      fill:#ff0033;
+      opacity:.18;
       animation:scan 3.2s linear infinite;
     }
 
     .corner {
-      stroke:#ff8fa3;
+      stroke:#ff0033;
       stroke-width:3;
-      filter:drop-shadow(0 0 10px ff0000);
+      filter:drop-shadow(0 0 6px #ff0033);
     }
 
     .dash {
-      stroke:#ff8fa3;
+      stroke:#ff0033;
       stroke-width:2;
       stroke-dasharray:16 10;
-      opacity:.70;
+      opacity:.50;
       animation:borderDash 4s linear infinite;
     }
 
@@ -187,12 +181,12 @@
     <rect class="topbar" x="150" y="78" width="900" height="48" rx="0"/>
     <rect class="inner" x="180" y="145" width="840" height="130" rx="0"/>
 
-    <circle cx="190" cy="102" r="8" fill="#ff8fa3"/>
-    <circle cx="222" cy="102" r="8" fill="#ffb3c1"/>
-    <circle cx="254" cy="102" r="8" fill="#ffccd5"/>
+    <circle cx="190" cy="102" r="8" fill="#ff0033"/>
+    <circle cx="222" cy="102" r="8" fill="#ff0033"/>
+    <circle cx="254" cy="102" r="8" fill="#ff0033"/>
 
     <text x="600" y="108" text-anchor="middle" class="small">
-      light-red-hacker@yeager: ~/github-profile
+      red-hacker@yeager: ~/github-profile
     </text>
 
     <text x="600" y="198" text-anchor="middle" class="title">
