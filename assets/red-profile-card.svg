@@ -10,9 +10,9 @@
       }
       50% {
         filter:
-          drop-shadow(0 0 16px #ff002f)
-          drop-shadow(0 0 34px #ff002f)
-          drop-shadow(0 0 55px #ff002f);
+          drop-shadow(0 0 10px #ff002f)
+          drop-shadow(0 0 25px #ff002f)
+          drop-shadow(0 0 45px #ff002f);
         opacity:1;
       }
     }
