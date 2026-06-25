@@ -1,0 +1,199 @@
+<svg width="1200" height="390" viewBox="0 0 1200 390" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes glow {
+      0%,100% { opacity:.75; filter: drop-shadow(0 0 10px #ff4d6d); }
+      50% { opacity:1; filter: drop-shadow(0 0 35px #ff4d6d); }
+    }
+
+    @keyframes scan {
+      0% { transform: translateY(-60px); opacity:0; }
+      25% { opacity:.9; }
+      100% { transform: translateY(430px); opacity:0; }
+    }
+
+    @keyframes move {
+      0% { transform: translateY(-390px); opacity:.15; }
+      50% { opacity:.9; }
+      100% { transform: translateY(390px); opacity:.15; }
+    }
+
+    @keyframes borderDash {
+      to { stroke-dashoffset: -180; }
+    }
+
+    @keyframes float {
+      0%,100% { transform: translateY(0); }
+      50% { transform: translateY(-8px); }
+    }
+
+    @keyframes blink {
+      0%,45% { opacity:1; }
+      46%,100% { opacity:0; }
+    }
+
+    .bg { fill:#020000; }
+    .gif { opacity:.50; }
+    .dark { fill:#020000; opacity:.66; }
+    .red { fill:#ff4d6d; opacity:.13; }
+
+    .grid {
+      stroke:#ff4d6d;
+      stroke-opacity:.15;
+    }
+
+    .matrix {
+      font-family:"Share Tech Mono","Courier New",monospace;
+      fill:#ff4d6d;
+      font-size:18px;
+      opacity:.65;
+      animation:move 8s linear infinite;
+    }
+
+    .matrix2 { animation-delay:2s; opacity:.42; }
+    .matrix3 { animation-delay:4s; opacity:.32; }
+
+    .box {
+      fill:rgba(12,0,5,.88);
+      stroke:#ff4d6d;
+      stroke-width:2.5;
+      filter:drop-shadow(0 0 22px #ff4d6d);
+      animation:glow 2.7s ease-in-out infinite;
+    }
+
+    .topbar { fill:#1a0008; }
+
+    .title {
+      font-family:"Share Tech Mono","Courier New",monospace;
+      font-size:62px;
+      font-weight:900;
+      letter-spacing:3px;
+      fill:#ff4d6d;
+      animation:glow 2.2s ease-in-out infinite;
+    }
+
+    .subtitle {
+      font-family:"Share Tech Mono","Courier New",monospace;
+      font-size:24px;
+      fill:#ffd0da;
+    }
+
+    .small {
+      font-family:"Share Tech Mono","Courier New",monospace;
+      font-size:15px;
+      fill:#ff9aad;
+    }
+
+    .scan {
+      fill:#ff4d6d;
+      opacity:.35;
+      animation:scan 3.1s linear infinite;
+    }
+
+    .corner {
+      stroke:#ff4d6d;
+      stroke-width:4;
+      filter:drop-shadow(0 0 12px #ff4d6d);
+    }
+
+    .dash {
+      stroke:#ff4d6d;
+      stroke-width:2;
+      stroke-dasharray:16 10;
+      opacity:.8;
+      animation:borderDash 4s linear infinite;
+      filter:drop-shadow(0 0 10px #ff4d6d);
+    }
+
+    .terminal { animation:float 4s ease-in-out infinite; }
+    .cursor { animation:blink .8s infinite; }
+  </style>
+
+  <rect class="bg" width="1200" height="390" rx="30"/>
+
+  <image class="gif" href="https://raw.githubusercontent.com/erenyeager94/erenyeager94/main/assets/lose_hacker.gif" x="0" y="0" width="1200" height="390" preserveAspectRatio="xMidYMid slice"/>
+
+  <rect class="dark" width="1200" height="390" rx="30"/>
+  <rect class="red" width="1200" height="390" rx="30"/>
+
+  <g>
+    <path class="grid" d="M0 45H1200"/>
+    <path class="grid" d="M0 90H1200"/>
+    <path class="grid" d="M0 135H1200"/>
+    <path class="grid" d="M0 180H1200"/>
+    <path class="grid" d="M0 225H1200"/>
+    <path class="grid" d="M0 270H1200"/>
+    <path class="grid" d="M0 315H1200"/>
+    <path class="grid" d="M0 360H1200"/>
+
+    <path class="grid" d="M80 0V390"/>
+    <path class="grid" d="M160 0V390"/>
+    <path class="grid" d="M240 0V390"/>
+    <path class="grid" d="M320 0V390"/>
+    <path class="grid" d="M400 0V390"/>
+    <path class="grid" d="M480 0V390"/>
+    <path class="grid" d="M560 0V390"/>
+    <path class="grid" d="M640 0V390"/>
+    <path class="grid" d="M720 0V390"/>
+    <path class="grid" d="M800 0V390"/>
+    <path class="grid" d="M880 0V390"/>
+    <path class="grid" d="M960 0V390"/>
+    <path class="grid" d="M1040 0V390"/>
+    <path class="grid" d="M1120 0V390"/>
+  </g>
+
+  <g class="matrix">
+    <text x="40" y="55">010101 101001 110010 001010</text>
+    <text x="860" y="70">ACCESS GRANTED</text>
+    <text x="90" y="135">SYSTEM ONLINE</text>
+    <text x="835" y="150">RUNNING CODE...</text>
+    <text x="50" y="230">101010 010101 111000</text>
+    <text x="940" y="245">DEBUG MODE</text>
+    <text x="140" y="325">FRONTEND ACTIVE</text>
+  </g>
+
+  <g class="matrix matrix2">
+    <text x="760" y="45">010101010101</text>
+    <text x="50" y="90">REACT PHP JS</text>
+    <text x="910" y="195">ROOT@YEAGER</text>
+    <text x="125" y="265">BUILD SUCCESS</text>
+    <text x="760" y="335">CODE DEPLOYED</text>
+  </g>
+
+  <g class="matrix matrix3">
+    <text x="420" y="45">DATABASE CONNECTED</text>
+    <text x="500" y="340">NO BUGS FOUND</text>
+    <text x="310" y="285">COMPILING...</text>
+  </g>
+
+  <path class="corner" d="M45 70V28H105"/>
+  <path class="corner" d="M1155 70V28H1095"/>
+  <path class="corner" d="M45 320V362H105"/>
+  <path class="corner" d="M1155 320V362H1095"/>
+
+  <path class="dash" d="M125 55H1075"/>
+  <path class="dash" d="M125 335H1075"/>
+
+  <g class="terminal">
+    <rect class="box" x="150" y="78" width="900" height="230" rx="24"/>
+    <rect class="topbar" x="150" y="78" width="900" height="48" rx="24"/>
+
+    <circle cx="190" cy="102" r="8" fill="#ff1744"/>
+    <circle cx="222" cy="102" r="8" fill="#ff5c7a"/>
+    <circle cx="254" cy="102" r="8" fill="#ff9aad"/>
+
+    <text x="600" y="108" text-anchor="middle" class="small">
+      red-hacker@yeager: ~/github-profile
+    </text>
+
+    <text x="600" y="190" text-anchor="middle" class="title">
+      Hi, I'm Yeager
+    </text>
+
+    <text x="600" y="245" text-anchor="middle" class="subtitle">
+      &gt; Frontend Developer | CSS | PHP | JavaScript | React
+      <tspan class="cursor">_</tspan>
+    </text>
+
+    <rect class="scan" x="150" y="78" width="900" height="26"/>
+  </g>
+</svg>

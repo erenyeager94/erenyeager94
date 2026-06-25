@@ -1,0 +1,211 @@
+<svg width="1200" height="880" viewBox="0 0 1200 880" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes glow {
+      0%,100% { filter: drop-shadow(0 0 8px #ff4d6d); opacity:.85; }
+      50% { filter: drop-shadow(0 0 25px #ff4d6d); opacity:1; }
+    }
+
+    @keyframes scan {
+      0% { transform: translateY(-70px); opacity:0; }
+      20% { opacity:.75; }
+      100% { transform: translateY(950px); opacity:0; }
+    }
+
+    @keyframes move {
+      0% { transform: translateY(-900px); opacity:.12; }
+      50% { opacity:.8; }
+      100% { transform: translateY(900px); opacity:.12; }
+    }
+
+    @keyframes dash {
+      to { stroke-dashoffset:-180; }
+    }
+
+    .bg { fill:#050000; }
+    .gif { opacity:.38; }
+    .overlay { fill:#050000; opacity:.72; }
+    .red { fill:#ff4d6d; opacity:.10; }
+
+    .card {
+      fill:rgba(12,0,5,.86);
+      stroke:#ff4d6d;
+      stroke-width:2;
+      filter:drop-shadow(0 0 18px #ff4d6d);
+    }
+
+    .card2 {
+      fill:rgba(18,0,7,.75);
+      stroke:#ff8fa3;
+      stroke-width:1.5;
+      opacity:.95;
+    }
+
+    .title {
+      font-family:"Share Tech Mono","Courier New",monospace;
+      font-size:34px;
+      font-weight:900;
+      fill:#ff4d6d;
+      animation:glow 2.4s ease-in-out infinite;
+    }
+
+    .head {
+      font-family:"Share Tech Mono","Courier New",monospace;
+      font-size:22px;
+      font-weight:900;
+      fill:#ffd0da;
+    }
+
+    .text {
+      font-family:"Share Tech Mono","Courier New",monospace;
+      font-size:20px;
+      fill:#ffffff;
+    }
+
+    .muted {
+      font-family:"Share Tech Mono","Courier New",monospace;
+      font-size:18px;
+      fill:#ffb3c1;
+    }
+
+    .skill {
+      fill:#20000a;
+      stroke:#ff4d6d;
+      stroke-width:1;
+    }
+
+    .barbg { fill:#180006; }
+    .bar { fill:#ff4d6d; filter:drop-shadow(0 0 8px #ff4d6d); }
+    .bar2 { fill:#ff8fa3; }
+
+    .matrix {
+      font-family:"Courier New",monospace;
+      font-size:17px;
+      fill:#ff4d6d;
+      opacity:.5;
+      animation:move 9s linear infinite;
+    }
+
+    .matrix2 { animation-delay:3s; opacity:.35; }
+
+    .scan {
+      fill:#ff4d6d;
+      opacity:.22;
+      animation:scan 4s linear infinite;
+    }
+
+    .dash {
+      stroke:#ff4d6d;
+      stroke-width:2;
+      stroke-dasharray:16 10;
+      animation:dash 5s linear infinite;
+      opacity:.65;
+    }
+  </style>
+
+  <rect class="bg" width="1200" height="880" rx="28"/>
+
+  <image class="gif" href="https://raw.githubusercontent.com/erenyeager94/erenyeager94/main/assets/lose_hacker.gif" x="0" y="0" width="1200" height="880" preserveAspectRatio="xMidYMid slice"/>
+
+  <rect class="overlay" width="1200" height="880" rx="28"/>
+  <rect class="red" width="1200" height="880" rx="28"/>
+
+  <g class="matrix">
+    <text x="40" y="70">010101 110010 ACCESS_GRANTED ROOT@YEAGER</text>
+    <text x="760" y="120">SYSTEM ONLINE</text>
+    <text x="65" y="230">FRONTEND ACTIVE</text>
+    <text x="810" y="350">BUILD SUCCESS</text>
+    <text x="70" y="520">RUNNING CODE...</text>
+    <text x="760" y="680">NO BUGS FOUND</text>
+  </g>
+
+  <g class="matrix matrix2">
+    <text x="720" y="70">REACT PHP JS MYSQL</text>
+    <text x="50" y="145">DATABASE CONNECTED</text>
+    <text x="860" y="250">DEBUG MODE</text>
+    <text x="80" y="760">CODE DEPLOYED</text>
+  </g>
+
+  <rect class="scan" x="0" y="0" width="1200" height="36"/>
+
+  <path class="dash" d="M70 55H1130"/>
+  <path class="dash" d="M70 825H1130"/>
+
+  <!-- ABOUT CARD -->
+  <rect class="card" x="55" y="80" width="520" height="330" rx="24"/>
+  <text class="title" x="90" y="135">🩸 About Me</text>
+
+  <rect class="card2" x="90" y="165" width="445" height="42" rx="10"/>
+  <text class="head" x="115" y="193">Name</text>
+  <text class="text" x="300" y="193">Yeager</text>
+
+  <rect class="card2" x="90" y="215" width="445" height="42" rx="10"/>
+  <text class="head" x="115" y="243">Role</text>
+  <text class="text" x="300" y="243">Frontend Developer</text>
+
+  <rect class="card2" x="90" y="265" width="445" height="42" rx="10"/>
+  <text class="head" x="115" y="293">Location</text>
+  <text class="text" x="300" y="293">India</text>
+
+  <rect class="card2" x="90" y="315" width="445" height="42" rx="10"/>
+  <text class="head" x="115" y="343">Focus</text>
+  <text class="text" x="300" y="343">Frontend Development</text>
+
+  <text class="muted" x="90" y="385">Code | Debug | Build | Repeat ⚡</text>
+
+  <!-- TECH CARD -->
+  <rect class="card" x="625" y="80" width="520" height="330" rx="24"/>
+  <text class="title" x="660" y="135">🧠 Tech Arsenal</text>
+
+  <rect class="card2" x="660" y="165" width="455" height="50" rx="12"/>
+  <text class="head" x="685" y="197">Frontend</text>
+  <text class="text" x="835" y="197">HTML5 | CSS3 | SASS | JS | React</text>
+
+  <rect class="card2" x="660" y="230" width="455" height="50" rx="12"/>
+  <text class="head" x="685" y="262">Backend</text>
+  <text class="text" x="835" y="262">PHP | Python | Scala</text>
+
+  <rect class="card2" x="660" y="295" width="455" height="50" rx="12"/>
+  <text class="head" x="685" y="327">Database</text>
+  <text class="text" x="835" y="327">MySQL | MongoDB</text>
+
+  <rect class="card2" x="660" y="360" width="455" height="50" rx="12"/>
+  <text class="head" x="685" y="392">Tools</text>
+  <text class="text" x="835" y="392">Git | Linux | GitHub | VS Code</text>
+
+  <!-- SKILL MATRIX CARD -->
+  <rect class="card" x="55" y="455" width="1090" height="350" rx="24"/>
+  <text class="title" x="90" y="510">⚡ Skill Matrix</text>
+
+  <!-- Row 1 -->
+  <text class="head" x="95" y="570">HTML5</text>
+  <rect class="barbg" x="270" y="548" width="760" height="26" rx="13"/>
+  <rect class="bar" x="270" y="548" width="760" height="26" rx="13"/>
+  <text class="text" x="1050" y="570">100%</text>
+
+  <!-- Row 2 -->
+  <text class="head" x="95" y="615">CSS3</text>
+  <rect class="barbg" x="270" y="593" width="760" height="26" rx="13"/>
+  <rect class="bar" x="270" y="593" width="760" height="26" rx="13"/>
+  <text class="text" x="1050" y="615">100%</text>
+
+  <!-- Row 3 -->
+  <text class="head" x="95" y="660">JavaScript</text>
+  <rect class="barbg" x="270" y="638" width="760" height="26" rx="13"/>
+  <rect class="bar" x="270" y="638" width="684" height="26" rx="13"/>
+  <rect class="bar2" x="950" y="638" width="4" height="26"/>
+  <text class="text" x="1050" y="660">90%</text>
+
+  <!-- Row 4 -->
+  <text class="head" x="95" y="705">React</text>
+  <rect class="barbg" x="270" y="683" width="760" height="26" rx="13"/>
+  <rect class="bar" x="270" y="683" width="608" height="26" rx="13"/>
+  <text class="text" x="1050" y="705">80%</text>
+
+  <!-- Row 5 -->
+  <text class="head" x="95" y="750">PHP / MySQL</text>
+  <rect class="barbg" x="270" y="728" width="760" height="26" rx="13"/>
+  <rect class="bar" x="270" y="728" width="684" height="26" rx="13"/>
+  <text class="text" x="1050" y="750">90%</text>
+
+  <text class="muted" x="90" y="785">Clean UI • Responsive Design • Modern Frontend • Fast Debugging</text>
+</svg>

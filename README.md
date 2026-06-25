@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hacker-banner.jpg" width="100%" alt="Red Hacker Banner" />
+<img src="./assets/hacker-banner.svg" width="100%" alt="Red Hacker Banner" />
 
 <br><br>
 
@@ -12,70 +12,11 @@
 <img src="https://img.shields.io/github/followers/erenyeager94?label=FOLLOWERS&style=for-the-badge&color=ff4d6d&labelColor=0d0d0d" alt="Followers" />
 <img src="https://img.shields.io/github/stars/erenyeager94?label=STARS&style=for-the-badge&color=ff4d6d&labelColor=0d0d0d" alt="Stars" />
 
-<br><br>
-
-<img src="./assets/lose_hacker.gif" width="85%" alt="Hacker GIF" />
-
 </div>
-
----
-
-<div align="center">
-
-# 👋 Hi, I'm Yeager
-
-### A Passionate Frontend Developer from India
-
-<img src="https://img.shields.io/badge/Frontend-Developer-ff4d6d?style=for-the-badge&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/Theme-Black%20%26%20Red-ff4d6d?style=for-the-badge&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/Status-Online-ff4d6d?style=for-the-badge&labelColor=0d0d0d" />
-
-</div>
-
----
-
-## 🩸 About Me
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="190"><b>🧑 Name</b></td>
-    <td align="center" width="470">Yeager</td>
-  </tr>
-  <tr>
-    <td align="center"><b>💼 Role</b></td>
-    <td align="center">Frontend Developer</td>
-  </tr>
-  <tr>
-    <td align="center"><b>📍 Location</b></td>
-    <td align="center">India</td>
-  </tr>
-  <tr>
-    <td align="center"><b>🔥 Passion</b></td>
-    <td align="center">Building clean, modern and responsive websites</td>
-  </tr>
-  <tr>
-    <td align="center"><b>🎯 Current Focus</b></td>
-    <td align="center">Frontend Development</td>
-  </tr>
-  <tr>
-    <td align="center"><b>⚙️ Mode</b></td>
-    <td align="center">Code | Debug | Build | Repeat</td>
-  </tr>
-  <tr>
-    <td align="center"><b>📡 Status</b></td>
-    <td align="center">Online ⚡</td>
-  </tr>
-</table>
 
 <br>
 
-<img src="https://img.shields.io/badge/Clean_UI-ff4d6d?style=for-the-badge&labelColor=090909" />
-<img src="https://img.shields.io/badge/Responsive_Websites-ff4d6d?style=for-the-badge&labelColor=090909" />
-<img src="https://img.shields.io/badge/Modern_Frontend-ff4d6d?style=for-the-badge&labelColor=090909" />
-
-</div>
+<img src="./assets/red-profile-card.svg" width="100%" alt="Profile Cards" />
 
 ---
 
@@ -154,128 +95,6 @@
 
 ---
 
-## 🧠 Tech Arsenal
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center"><b>🖥️ Frontend</b></td>
-    <td align="center"><b>⚙️ Backend</b></td>
-    <td align="center"><b>🗄️ Database</b></td>
-    <td align="center"><b>🛠️ Tools</b></td>
-  </tr>
-  <tr>
-    <td align="center">HTML5</td>
-    <td align="center">PHP</td>
-    <td align="center">MySQL</td>
-    <td align="center">Git</td>
-  </tr>
-  <tr>
-    <td align="center">CSS3</td>
-    <td align="center">Python</td>
-    <td align="center">MongoDB</td>
-    <td align="center">Linux</td>
-  </tr>
-  <tr>
-    <td align="center">SASS</td>
-    <td align="center">Scala</td>
-    <td align="center">—</td>
-    <td align="center">GitHub</td>
-  </tr>
-  <tr>
-    <td align="center">JavaScript</td>
-    <td align="center">—</td>
-    <td align="center">—</td>
-    <td align="center">VS Code</td>
-  </tr>
-  <tr>
-    <td align="center">React</td>
-    <td align="center">—</td>
-    <td align="center">—</td>
-    <td align="center">Terminal</td>
-  </tr>
-</table>
-
-<br>
-
-<img src="https://img.shields.io/badge/HTML5-Expert-ff4d6d?style=for-the-badge&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/CSS3-Expert-ff4d6d?style=for-the-badge&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/JavaScript-Advanced-ff4d6d?style=for-the-badge&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/React-Advanced-ff4d6d?style=for-the-badge&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/PHP-Advanced-ff4d6d?style=for-the-badge&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/MySQL-Advanced-ff4d6d?style=for-the-badge&labelColor=0d0d0d" />
-
-</div>
-
----
-
-## ⚡ Skill Matrix
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center"><b>Skill</b></td>
-    <td align="center"><b>Power Level</b></td>
-  </tr>
-  <tr>
-    <td align="center">HTML5</td>
-    <td align="center"><img src="https://img.shields.io/badge/████████████████████-100%25-ff4d6d?style=for-the-badge&labelColor=0d0d0d" /></td>
-  </tr>
-  <tr>
-    <td align="center">CSS3</td>
-    <td align="center"><img src="https://img.shields.io/badge/████████████████████-100%25-ff4d6d?style=for-the-badge&labelColor=0d0d0d" /></td>
-  </tr>
-  <tr>
-    <td align="center">JavaScript</td>
-    <td align="center"><img src="https://img.shields.io/badge/██████████████████░░-90%25-ff4d6d?style=for-the-badge&labelColor=0d0d0d" /></td>
-  </tr>
-  <tr>
-    <td align="center">React</td>
-    <td align="center"><img src="https://img.shields.io/badge/████████████████░░░░-80%25-ff4d6d?style=for-the-badge&labelColor=0d0d0d" /></td>
-  </tr>
-  <tr>
-    <td align="center">PHP</td>
-    <td align="center"><img src="https://img.shields.io/badge/██████████████████░░-90%25-ff4d6d?style=for-the-badge&labelColor=0d0d0d" /></td>
-  </tr>
-  <tr>
-    <td align="center">Python</td>
-    <td align="center"><img src="https://img.shields.io/badge/███████████████░░░░░-75%25-ff4d6d?style=for-the-badge&labelColor=0d0d0d" /></td>
-  </tr>
-  <tr>
-    <td align="center">MySQL</td>
-    <td align="center"><img src="https://img.shields.io/badge/█████████████████░░░-85%25-ff4d6d?style=for-the-badge&labelColor=0d0d0d" /></td>
-  </tr>
-  <tr>
-    <td align="center">Git / Linux</td>
-    <td align="center"><img src="https://img.shields.io/badge/████████████████░░░░-80%25-ff4d6d?style=for-the-badge&labelColor=0d0d0d" /></td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## ✒️ Recent Posts
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center"><b>Status</b></td>
-    <td align="center"><b>Details</b></td>
-  </tr>
-  <tr>
-    <td align="center">Coming Soon</td>
-    <td align="center">No recent posts added yet 🚀</td>
-  </tr>
-</table>
-
-</div>
-
----
-
 ## 📊 GitHub System Stats
 
 <div align="center">
@@ -297,7 +116,7 @@
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="./assets/hacker1.gif" alt="erenyeager94 Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=erenyeager94&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="erenyeager94 Trophy" />
 </a>
 
 </div>
