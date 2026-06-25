@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=27&duration=2200&pause=750&color=B11226&center=true&vCenter=true&width=950&lines=%3E+Initializing+Yeager.exe...;%3E+Frontend+Developer+Activated;%3E+CSS+%7C+PHP+%7C+JavaScript+%7C+Python;%3E+React+%7C+MongoDB+%7C+MySQL+%7C+Linux;%3E+Dark+Red+Hacker+Mode+Enabled" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=34&duration=2200&pause=750&color=B11226&center=true&vCenter=true&width=1000&height=70&lines=%3E+INITIALIZING+YEAGER.EXE...;%3E+FRONTEND+DEVELOPER+ACTIVATED;%3E+CSS+%7C+PHP+%7C+JAVASCRIPT+%7C+PYTHON;%3E+REACT+%7C+MONGODB+%7C+MYSQL+%7C+LINUX;%3E+DARK+RED+HACKER+MODE+ENABLED" alt="Typing Animation" />
 
 <br><br>
 
@@ -24,67 +24,71 @@
 
 ---
 
-## 🚀 Languages and Tools I Use
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=36&duration=3000&pause=1000&color=B11226&center=true&vCenter=true&width=950&height=70&lines=%E2%9A%A1+LANGUAGES+AND+TOOLS+I+USE+%E2%9A%A1" alt="Languages Heading" />
+
+</div>
 
 <div align="center">
 
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="58" height="58" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="62" height="62" />
 </a>
 &nbsp;&nbsp;
 
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="58" height="58" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="62" height="62" />
 </a>
 &nbsp;&nbsp;
 
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="58" height="58" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="62" height="62" />
 </a>
 &nbsp;&nbsp;
 
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="58" height="58" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="62" height="62" />
 </a>
 &nbsp;&nbsp;
 
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="58" height="58" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="62" height="62" />
 </a>
 &nbsp;&nbsp;
 
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="58" height="58" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="62" height="62" />
 </a>
 &nbsp;&nbsp;
 
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="58" height="58" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="62" height="62" />
 </a>
 &nbsp;&nbsp;
 
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="58" height="58" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="62" height="62" />
 </a>
 &nbsp;&nbsp;
 
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="58" height="58" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="62" height="62" />
 </a>
 &nbsp;&nbsp;
 
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="58" height="58" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="62" height="62" />
 </a>
 &nbsp;&nbsp;
 
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="58" height="58" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="62" height="62" />
 </a>
 &nbsp;&nbsp;
 
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="58" height="58" />
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="62" height="62" />
 </a>
 
 </div>
@@ -99,7 +103,11 @@
 
 ---
 
-## 📊 GitHub System Stats
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=36&duration=3000&pause=1000&color=B11226&center=true&vCenter=true&width=950&height=70&lines=%F0%9F%93%8A+GITHUB+SYSTEM+STATS+%F0%9F%93%8A" alt="Stats Heading" />
+
+</div>
 
 <div align="center">
 
@@ -115,7 +123,11 @@
 
 ---
 
-## 🏆 GitHub Trophy
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=36&duration=3000&pause=1000&color=B11226&center=true&vCenter=true&width=950&height=70&lines=%F0%9F%8F%86+GITHUB+TROPHY+%F0%9F%8F%86" alt="Trophy Heading" />
+
+</div>
 
 <div align="center">
 
@@ -127,7 +139,11 @@
 
 ---
 
-## 📈 Activity Graph
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=36&duration=3000&pause=1000&color=B11226&center=true&vCenter=true&width=950&height=70&lines=%F0%9F%93%88+ACTIVITY+GRAPH+%F0%9F%93%88" alt="Activity Heading" />
+
+</div>
 
 <div align="center">
 
@@ -137,27 +153,35 @@
 
 ---
 
-## ⚡ Where to find me
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=36&duration=3000&pause=1000&color=B11226&center=true&vCenter=true&width=950&height=70&lines=%E2%9A%A1+WHERE+TO+FIND+ME+%E2%9A%A1" alt="Social Heading" />
+
+</div>
 
 <div align="center">
 
 <a target="_blank" href="https://www.facebook.com/yeager010/">
-<img src="https://img.shields.io/badge/Facebook-050000?style=for-the-badge&logo=facebook&logoColor=b11226" alt="facebook" />
+<img src="https://img.shields.io/badge/FACEBOOK-050000?style=for-the-badge&logo=facebook&logoColor=b11226" alt="facebook" />
 </a>
 
 <a target="_blank" href="https://www.instagram.com/yeager_010/">
-<img src="https://img.shields.io/badge/Instagram-050000?style=for-the-badge&logo=instagram&logoColor=b11226" alt="instagram" />
+<img src="https://img.shields.io/badge/INSTAGRAM-050000?style=for-the-badge&logo=instagram&logoColor=b11226" alt="instagram" />
 </a>
 
 <a target="_blank" href="https://github.com/erenyeager94">
-<img src="https://img.shields.io/badge/GitHub-050000?style=for-the-badge&logo=github&logoColor=b11226" alt="github" />
+<img src="https://img.shields.io/badge/GITHUB-050000?style=for-the-badge&logo=github&logoColor=b11226" alt="github" />
 </a>
 
 </div>
 
 ---
 
-## 🧩 Developer Quote
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=36&duration=3000&pause=1000&color=B11226&center=true&vCenter=true&width=950&height=70&lines=%F0%9F%A7%A9+DEVELOPER+QUOTE+%F0%9F%A7%A9" alt="Quote Heading" />
+
+</div>
 
 <div align="center">
 
@@ -169,7 +193,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2800&pause=1000&color=B11226&center=true&vCenter=true&width=750&lines=%3E+Connection+Closed...;%3E+See+You+Again;%3E+System+Logout+Successful" alt="Footer Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=28&duration=2800&pause=1000&color=B11226&center=true&vCenter=true&width=850&height=70&lines=%3E+CONNECTION+CLOSED...;%3E+SEE+YOU+AGAIN;%3E+SYSTEM+LOGOUT+SUCCESSFUL" alt="Footer Typing" />
 
 <br><br>
 
