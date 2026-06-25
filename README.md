@@ -14,7 +14,7 @@
 
 <br><br>
 
-<img src="./assets/hacker.gif" width="100%" height="260" alt="Hacker GIF" />
+<img src="./assets/erenyeager.gif" width="100%" height="260" alt="Hacker GIF" />
 
 </div>
 
