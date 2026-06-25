@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hacker-banner.svg" width="100%" alt="Red Hacker Banner" />
+<img src="./assets/hacker-banner.jpg" width="100%" alt="Red Hacker Banner" />
 
 <br><br>
 
@@ -297,7 +297,7 @@
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=erenyeager94&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="erenyeager94 Trophy" />
+<img src="./assets/hacker1.gif" alt="erenyeager94 Trophy" />
 </a>
 
 </div>
