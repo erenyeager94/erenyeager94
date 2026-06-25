@@ -1,115 +1,135 @@
 <svg width="1200" height="960" viewBox="0 0 1200 960" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700;800;900&family=Share+Tech+Mono&display=swap');
-
     @keyframes glow {
       0%,100% {
-        filter: drop-shadow(0 0 8px #7a0019) drop-shadow(0 0 16px #7a0019) drop-shadow(0 0 28px #b11226);
-        opacity:.92;
+        filter:
+          drop-shadow(0 0 8px #ff002f)
+          drop-shadow(0 0 18px #ff002f)
+          drop-shadow(0 0 35px #ff002f);
+        opacity:.94;
       }
       50% {
-        filter: drop-shadow(0 0 14px #7a0019) drop-shadow(0 0 30px #7a0019) drop-shadow(0 0 44px #b11226);
+        filter:
+          drop-shadow(0 0 16px #ff002f)
+          drop-shadow(0 0 34px #ff002f)
+          drop-shadow(0 0 55px #ff002f);
         opacity:1;
       }
     }
 
     @keyframes scan {
       0% { transform: translateY(-70px); opacity:0; }
-      20% { opacity:.40; }
+      20% { opacity:.35; }
       100% { transform: translateY(1010px); opacity:0; }
     }
 
     @keyframes move {
-      0% { transform: translateY(-960px); opacity:.08; }
-      50% { opacity:.55; }
-      100% { transform: translateY(960px); opacity:.08; }
+      0% { transform: translateY(-960px); opacity:.07; }
+      50% { opacity:.42; }
+      100% { transform: translateY(960px); opacity:.07; }
     }
 
     @keyframes dash {
       to { stroke-dashoffset:-180; }
     }
 
-    .bg { fill:#040000; }
-    .gif { opacity:.48; }
-    .overlay { fill:#040000; opacity:.76; }
-    .red { fill:#7a0019; opacity:.10; }
+    .bg { fill:#030000; }
+    .layer1 { fill:#080002; opacity:.97; }
+    .layer2 { fill:#ff8fa3; opacity:.08; }
+
+    .grid {
+      stroke:#ff8fa3;
+      stroke-width:1;
+      opacity:.18;
+    }
 
     .card {
-      fill:rgba(6,0,1,.92);
-      stroke:#4a000f;
-      stroke-width:2;
+      fill:#060001;
+      stroke:#ff8fa3;
+      stroke-width:2.2;
       animation:glow 3s ease-in-out infinite;
     }
 
     .panel {
-      fill:rgba(12,0,4,.88);
-      stroke:#7a0019;
+      fill:#120005;
+      stroke:#ffb3c1;
       stroke-width:1.5;
     }
 
     .title {
-      font-family:"Orbitron","Arial Black",sans-serif;
-      font-size:32px;
+      font-family:"Arial Black","Impact","Courier New",monospace;
+      font-size:36px;
       font-weight:900;
-      fill:#d61c3b;
+      fill:#ff8fa3;
       letter-spacing:2px;
       animation:glow 2.4s ease-in-out infinite;
     }
 
     .head {
-      font-family:"Orbitron","Arial Black",sans-serif;
+      font-family:"Arial Black","Impact","Courier New",monospace;
       font-size:20px;
       font-weight:900;
-      fill:#f0d7dc;
+      fill:#ffe5ec;
       letter-spacing:1px;
     }
 
     .text {
-      font-family:"Share Tech Mono","Courier New",monospace;
+      font-family:"Courier New",monospace;
       font-size:18px;
       fill:#ffffff;
-      font-weight:700;
+      font-weight:900;
     }
 
     .small {
-      font-family:"Share Tech Mono","Courier New",monospace;
+      font-family:"Courier New",monospace;
       font-size:16px;
-      fill:#c98b96;
-      font-weight:700;
+      fill:#ffccd5;
+      font-weight:900;
     }
 
     .muted {
-      font-family:"Share Tech Mono","Courier New",monospace;
+      font-family:"Courier New",monospace;
       font-size:17px;
-      fill:#d0a3ab;
-      font-weight:700;
+      fill:#ffccd5;
+      font-weight:900;
     }
 
-    .barbg { fill:#160006; stroke:#3b000c; stroke-width:1; }
-    .bar {
-      fill:#7a0019;
-      filter:drop-shadow(0 0 7px #7a0019) drop-shadow(0 0 14px #7a0019);
+    .barbg {
+      fill:#160006;
+      stroke:#3b000c;
+      stroke-width:1;
     }
-    .barLight { fill:#d61c3b; }
+
+    .bar {
+      fill:#ff8fa3;
+      filter:
+        drop-shadow(0 0 8px #ff0000)
+        drop-shadow(0 0 18px ff0000);
+    }
+
+    .barLight { fill:#ffe5ec; }
 
     .matrix {
-      font-family:"Share Tech Mono","Courier New",monospace;
+      font-family:"Courier New",monospace;
       font-size:17px;
-      fill:#7a0019;
-      opacity:.45;
+      fill:#ff8fa3;
+      opacity:.35;
       animation:move 9s linear infinite;
     }
 
-    .matrix2 { animation-delay:3s; opacity:.30; }
+    .matrix2 {
+      animation-delay:3s;
+      opacity:.24;
+    }
 
     .scan {
-      fill:#7a0019;
-      opacity:.20;
+      fill:#ff8fa3;
+      opacity:.18;
       animation:scan 4s linear infinite;
     }
 
     .dash {
-      stroke:#7a0019;
+      stroke:#ff8fa3;
       stroke-width:2;
       stroke-dasharray:16 10;
       animation:dash 5s linear infinite;
@@ -118,25 +138,56 @@
 
     .pill {
       fill:#100004;
-      stroke:#4a000f;
-      stroke-width:1;
+      stroke:#ff8fa3;
+      stroke-width:1.2;
     }
 
     .pillText {
-      font-family:"Orbitron","Arial Black",sans-serif;
+      font-family:"Arial Black","Impact","Courier New",monospace;
       font-size:14px;
       font-weight:900;
-      fill:#f0d7dc;
+      fill:#ffe5ec;
       letter-spacing:.6px;
     }
   </style>
 
   <rect class="bg" width="1200" height="960" rx="0"/>
 
-  <!-- <image class="gif" href="https://raw.githubusercontent.com/erenyeager94/erenyeager94/main/assets/lose_hacker.gif" x="0" y="0" width="1200" height="960" preserveAspectRatio="xMidYMid slice"/> -->
+  <g>
+    <path class="grid" d="M0 60H1200"/>
+    <path class="grid" d="M0 120H1200"/>
+    <path class="grid" d="M0 180H1200"/>
+    <path class="grid" d="M0 240H1200"/>
+    <path class="grid" d="M0 300H1200"/>
+    <path class="grid" d="M0 360H1200"/>
+    <path class="grid" d="M0 420H1200"/>
+    <path class="grid" d="M0 480H1200"/>
+    <path class="grid" d="M0 540H1200"/>
+    <path class="grid" d="M0 600H1200"/>
+    <path class="grid" d="M0 660H1200"/>
+    <path class="grid" d="M0 720H1200"/>
+    <path class="grid" d="M0 780H1200"/>
+    <path class="grid" d="M0 840H1200"/>
+    <path class="grid" d="M0 900H1200"/>
 
-  <rect class="overlay" width="1200" height="960" rx="0"/>
-  <rect class="red" width="1200" height="960" rx="0"/>
+    <path class="grid" d="M80 0V960"/>
+    <path class="grid" d="M160 0V960"/>
+    <path class="grid" d="M240 0V960"/>
+    <path class="grid" d="M320 0V960"/>
+    <path class="grid" d="M400 0V960"/>
+    <path class="grid" d="M480 0V960"/>
+    <path class="grid" d="M560 0V960"/>
+    <path class="grid" d="M640 0V960"/>
+    <path class="grid" d="M720 0V960"/>
+    <path class="grid" d="M800 0V960"/>
+    <path class="grid" d="M880 0V960"/>
+    <path class="grid" d="M960 0V960"/>
+    <path class="grid" d="M1040 0V960"/>
+    <path class="grid" d="M1120 0V960"/>
+  </g>
+
+  <rect class="layer1" width="1200" height="960" rx="0"/>
+  <rect class="layer2" width="1200" height="960" rx="0"/>
 
   <g class="matrix">
     <text x="40" y="70">010101 110010 ACCESS GRANTED ROOT YEAGER</text>
@@ -161,7 +212,6 @@
   <path class="dash" d="M60 48H1140"/>
   <path class="dash" d="M60 910H1140"/>
 
-  <!-- ABOUT CARD -->
   <rect class="card" x="55" y="80" width="510" height="330" rx="0"/>
   <text class="title" x="90" y="130">ABOUT ME</text>
 
@@ -183,7 +233,6 @@
 
   <text class="muted" x="90" y="370">Code | Debug | Build | Repeat</text>
 
-  <!-- TECH CARD -->
   <rect class="card" x="635" y="80" width="510" height="330" rx="0"/>
   <text class="title" x="670" y="130">TECH ARSENAL</text>
 
@@ -219,7 +268,6 @@
   <rect class="pill" x="1004" y="360" width="85" height="30" rx="0"/>
   <text class="pillText" x="1015" y="380">GITHUB</text>
 
-  <!-- SKILL MATRIX -->
   <rect class="card" x="55" y="455" width="1090" height="430" rx="0"/>
   <text class="title" x="90" y="508">SKILL MATRIX</text>
 

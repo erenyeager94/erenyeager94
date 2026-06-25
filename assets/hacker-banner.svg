@@ -1,10 +1,20 @@
 <svg width="1200" height="390" viewBox="0 0 1200 390" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700;800;900&family=Share+Tech+Mono&display=swap');
-
     @keyframes glow {
-      0%,100% { opacity:.85; filter: drop-shadow(0 0 10px #7a0019) drop-shadow(0 0 20px #7a0019) drop-shadow(0 0 35px #b11226); }
-      50% { opacity:1; filter: drop-shadow(0 0 18px #7a0019) drop-shadow(0 0 35px #7a0019) drop-shadow(0 0 55px #b11226); }
+      0%,100% {
+        opacity:.9;
+        filter:
+          drop-shadow(0 0 8px #ff002f)
+          drop-shadow(0 0 18px #ff002f)
+          drop-shadow(0 0 35px #ff002f);
+      }
+      50% {
+        opacity:1;
+        filter:
+          drop-shadow(0 0 16px #ff002f)
+          drop-shadow(0 0 34px #ff002f)
+          drop-shadow(0 0 60px #ff002f);
+      }
     }
 
     @keyframes scan {
@@ -14,9 +24,9 @@
     }
 
     @keyframes move {
-      0% { transform: translateY(-390px); opacity:.08; }
-      50% { opacity:.55; }
-      100% { transform: translateY(390px); opacity:.08; }
+      0% { transform: translateY(-390px); opacity:.07; }
+      50% { opacity:.45; }
+      100% { transform: translateY(390px); opacity:.07; }
     }
 
     @keyframes borderDash {
@@ -29,81 +39,80 @@
     }
 
     .bg { fill:#030000; }
-    .gif { opacity:.58; }
-    .dark { fill:#030000; opacity:.68; }
-    .red { fill:#7a0019; opacity:.14; }
+    .dark { fill:#030000; opacity:.82; }
+    .red { fill:#ff8fa3; opacity:.08; }
 
     .grid {
-      stroke:#7a0019;
-      stroke-opacity:.20;
+      stroke:#ff8fa3;
+      stroke-opacity:.18;
     }
 
     .matrix {
-      font-family:"Share Tech Mono","Courier New",monospace;
-      fill:#8c1022;
+      font-family:"Courier New",monospace;
+      fill:#ff8fa3;
       font-size:18px;
-      opacity:.50;
+      opacity:.42;
       animation:move 8s linear infinite;
     }
 
-    .matrix2 { animation-delay:2s; opacity:.35; }
-    .matrix3 { animation-delay:4s; opacity:.25; }
+    .matrix2 { animation-delay:2s; opacity:.30; }
+    .matrix3 { animation-delay:4s; opacity:.22; }
 
     .box {
-      fill:rgba(5,0,1,.92);
-      stroke:#7a0019;
-      stroke-width:2;
+      fill:rgba(5,0,1,.94);
+      stroke:#ff8fa3;
+      stroke-width:2.4;
       animation:glow 2.8s ease-in-out infinite;
     }
 
     .inner {
-      fill:rgba(15,0,4,.88);
-      stroke:#3b000c;
-      stroke-width:1.5;
+      fill:rgba(15,0,4,.90);
+      stroke:#ffb3c1;
+      stroke-width:1.6;
     }
 
-    .topbar { fill:#120004; }
+    .topbar { fill:#170006; }
 
     .title {
-      font-family:"Orbitron","Arial Black",sans-serif;
-      font-size:58px;
+      font-family:"Arial Black","Impact","Courier New",monospace;
+      font-size:60px;
       font-weight:900;
       letter-spacing:3px;
-      fill:#d61c3b;
+      fill:#ff8fa3;
       animation:glow 2.2s ease-in-out infinite;
     }
 
     .subtitle {
-      font-family:"Share Tech Mono","Courier New",monospace;
-      font-size:22px;
-      fill:#f0d7dc;
-      font-weight:700;
+      font-family:"Courier New",monospace;
+      font-size:23px;
+      fill:#ffe5ec;
+      font-weight:900;
     }
 
     .small {
-      font-family:"Share Tech Mono","Courier New",monospace;
+      font-family:"Courier New",monospace;
       font-size:15px;
-      fill:#b83a4f;
-      font-weight:700;
+      fill:#ffccd5;
+      font-weight:900;
     }
 
     .scan {
-      fill:#7a0019;
-      opacity:.28;
+      fill:#ff8fa3;
+      opacity:.23;
       animation:scan 3.2s linear infinite;
     }
 
     .corner {
-      stroke:#7a0019;
+      stroke:#ff8fa3;
       stroke-width:3;
-      filter:drop-shadow(0 0 8px #7a0019);
+      filter:drop-shadow(0 0 10px ff0000);
     }
 
     .dash {
-      stroke:#7a0019;
+      stroke:#ff8fa3;
       stroke-width:2;
       stroke-dasharray:16 10;
-      opacity:.60;
+      opacity:.70;
       animation:borderDash 4s linear infinite;
     }
 
@@ -111,8 +120,6 @@
   </style>
 
   <rect class="bg" width="1200" height="390" rx="0"/>
-
-  <!-- <image class="gif" href="https://raw.githubusercontent.com/erenyeager94/erenyeager94/main/assets/lose_hacker.gif" x="0" y="0" width="1200" height="390" preserveAspectRatio="xMidYMid slice"/> -->
 
   <rect class="dark" width="1200" height="390" rx="0"/>
   <rect class="red" width="1200" height="390" rx="0"/>
@@ -180,12 +187,12 @@
     <rect class="topbar" x="150" y="78" width="900" height="48" rx="0"/>
     <rect class="inner" x="180" y="145" width="840" height="130" rx="0"/>
 
-    <circle cx="190" cy="102" r="8" fill="#7a0019"/>
-    <circle cx="222" cy="102" r="8" fill="#9e2536"/>
-    <circle cx="254" cy="102" r="8" fill="#d61c3b"/>
+    <circle cx="190" cy="102" r="8" fill="#ff8fa3"/>
+    <circle cx="222" cy="102" r="8" fill="#ffb3c1"/>
+    <circle cx="254" cy="102" r="8" fill="#ffccd5"/>
 
     <text x="600" y="108" text-anchor="middle" class="small">
-      dark-red-hacker@yeager: ~/github-profile
+      light-red-hacker@yeager: ~/github-profile
     </text>
 
     <text x="600" y="198" text-anchor="middle" class="title">
