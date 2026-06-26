@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hacker-banner.svg" width="100%" alt="Red Hacker Banner" />
+<img src="./assets/hacker-banner" width="100%" alt="Red Hacker Banner" />
 
 <br><br>
 
