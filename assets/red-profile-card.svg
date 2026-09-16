@@ -1,4 +1,4 @@
-<svg width="1200" height="960" viewBox="0 0 1200 960" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="1080" viewBox="0 0 1200 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
     @keyframes glow {
       0%,100% {
@@ -14,13 +14,13 @@
     @keyframes scan {
       0% { transform: translateY(-70px); opacity:0; }
       20% { opacity:.18; }
-      100% { transform: translateY(1010px); opacity:0; }
+      100% { transform: translateY(1130px); opacity:0; }
     }
 
     @keyframes move {
-      0% { transform: translateY(-960px); opacity:.04; }
+      0% { transform: translateY(-1080px); opacity:.04; }
       50% { opacity:.18; }
-      100% { transform: translateY(960px); opacity:.04; }
+      100% { transform: translateY(1080px); opacity:.04; }
     }
 
     @keyframes dash {
@@ -100,8 +100,6 @@
       filter:drop-shadow(0 0 3px #ff0033);
     }
 
-    .barLight { fill:#ff0033; }
-
     .matrix {
       font-family:"Courier New",monospace;
       font-size:17px;
@@ -137,14 +135,14 @@
 
     .pillText {
       font-family:"Arial Black","Impact","Courier New",monospace;
-      font-size:14px;
+      font-size:13px;
       font-weight:900;
       fill:#ff0033;
-      letter-spacing:.6px;
+      letter-spacing:.4px;
     }
   </style>
 
-  <rect class="bg" width="1200" height="960" rx="0"/>
+  <rect class="bg" width="1200" height="1080" rx="0"/>
 
   <g>
     <path class="grid" d="M0 60H1200"/>
@@ -162,25 +160,27 @@
     <path class="grid" d="M0 780H1200"/>
     <path class="grid" d="M0 840H1200"/>
     <path class="grid" d="M0 900H1200"/>
+    <path class="grid" d="M0 960H1200"/>
+    <path class="grid" d="M0 1020H1200"/>
 
-    <path class="grid" d="M80 0V960"/>
-    <path class="grid" d="M160 0V960"/>
-    <path class="grid" d="M240 0V960"/>
-    <path class="grid" d="M320 0V960"/>
-    <path class="grid" d="M400 0V960"/>
-    <path class="grid" d="M480 0V960"/>
-    <path class="grid" d="M560 0V960"/>
-    <path class="grid" d="M640 0V960"/>
-    <path class="grid" d="M720 0V960"/>
-    <path class="grid" d="M800 0V960"/>
-    <path class="grid" d="M880 0V960"/>
-    <path class="grid" d="M960 0V960"/>
-    <path class="grid" d="M1040 0V960"/>
-    <path class="grid" d="M1120 0V960"/>
+    <path class="grid" d="M80 0V1080"/>
+    <path class="grid" d="M160 0V1080"/>
+    <path class="grid" d="M240 0V1080"/>
+    <path class="grid" d="M320 0V1080"/>
+    <path class="grid" d="M400 0V1080"/>
+    <path class="grid" d="M480 0V1080"/>
+    <path class="grid" d="M560 0V1080"/>
+    <path class="grid" d="M640 0V1080"/>
+    <path class="grid" d="M720 0V1080"/>
+    <path class="grid" d="M800 0V1080"/>
+    <path class="grid" d="M880 0V1080"/>
+    <path class="grid" d="M960 0V1080"/>
+    <path class="grid" d="M1040 0V1080"/>
+    <path class="grid" d="M1120 0V1080"/>
   </g>
 
-  <rect class="layer1" width="1200" height="960" rx="0"/>
-  <rect class="layer2" width="1200" height="960" rx="0"/>
+  <rect class="layer1" width="1200" height="1080" rx="0"/>
+  <rect class="layer2" width="1200" height="1080" rx="0"/>
 
   <g class="matrix">
     <text x="40" y="70">010101 110010 ACCESS GRANTED ROOT YEAGER</text>
@@ -190,6 +190,7 @@
     <text x="70" y="520">RUNNING CODE</text>
     <text x="760" y="680">NO BUGS FOUND</text>
     <text x="70" y="860">PYTHON ENABLED</text>
+    <text x="740" y="1010">LARAVEL READY</text>
   </g>
 
   <g class="matrix matrix2">
@@ -198,14 +199,15 @@
     <text x="860" y="250">DEBUG MODE</text>
     <text x="80" y="760">CODE DEPLOYED</text>
     <text x="850" y="890">FAST DEBUGGING</text>
+    <text x="60" y="980">API INTEGRATION LIVE</text>
   </g>
 
   <rect class="scan" x="0" y="0" width="1200" height="34"/>
 
   <path class="dash" d="M60 48H1140"/>
-  <path class="dash" d="M60 910H1140"/>
+  <path class="dash" d="M60 1030H1140"/>
 
-  <rect class="card" x="55" y="80" width="510" height="330" rx="0"/>
+  <rect class="card" x="55" y="80" width="510" height="350" rx="0"/>
   <text class="title" x="90" y="130">ABOUT ME</text>
 
   <rect class="panel" x="90" y="158" width="440" height="38" rx="0"/>
@@ -224,9 +226,13 @@
   <text class="head" x="112" y="324">FOCUS</text>
   <text class="text" x="280" y="324">Frontend Development</text>
 
-  <text class="muted" x="90" y="370">Code | Debug | Build | Repeat</text>
+  <rect class="panel" x="90" y="346" width="440" height="38" rx="0"/>
+  <text class="head" x="112" y="371">PLUS</text>
+  <text class="text" x="280" y="371">API & Laravel</text>
 
-  <rect class="card" x="635" y="80" width="510" height="330" rx="0"/>
+  <text class="muted" x="90" y="410">Code | Debug | Build | Repeat</text>
+
+  <rect class="card" x="635" y="80" width="510" height="350" rx="0"/>
   <text class="title" x="670" y="130">TECH ARSENAL</text>
 
   <text class="head" x="670" y="172">FRONTEND</text>
@@ -241,63 +247,86 @@
   <rect class="pill" x="972" y="188" width="75" height="30" rx="0"/>
   <text class="pillText" x="986" y="208">REACT</text>
 
-  <text class="head" x="670" y="258">BACKEND</text>
-  <rect class="pill" x="670" y="274" width="55" height="30" rx="0"/>
-  <text class="pillText" x="684" y="294">PHP</text>
-  <rect class="pill" x="738" y="274" width="82" height="30" rx="0"/>
-  <text class="pillText" x="750" y="294">PYTHON</text>
-  <rect class="pill" x="833" y="274" width="72" height="30" rx="0"/>
-  <text class="pillText" x="847" y="294">SCALA</text>
+  <text class="head" x="670" y="250">BACKEND</text>
+  <rect class="pill" x="670" y="266" width="55" height="30" rx="0"/>
+  <text class="pillText" x="684" y="286">PHP</text>
+  <rect class="pill" x="738" y="266" width="82" height="30" rx="0"/>
+  <text class="pillText" x="750" y="286">PYTHON</text>
+  <rect class="pill" x="833" y="266" width="72" height="30" rx="0"/>
+  <text class="pillText" x="847" y="286">SCALA</text>
+  <rect class="pill" x="918" y="266" width="95" height="30" rx="0"/>
+  <text class="pillText" x="930" y="286">LARAVEL</text>
 
-  <text class="head" x="670" y="344">DATABASE / TOOLS</text>
-  <rect class="pill" x="670" y="360" width="70" height="30" rx="0"/>
-  <text class="pillText" x="682" y="380">MYSQL</text>
-  <rect class="pill" x="753" y="360" width="90" height="30" rx="0"/>
-  <text class="pillText" x="766" y="380">MONGODB</text>
-  <rect class="pill" x="856" y="360" width="52" height="30" rx="0"/>
-  <text class="pillText" x="870" y="380">GIT</text>
-  <rect class="pill" x="921" y="360" width="70" height="30" rx="0"/>
-  <text class="pillText" x="934" y="380">LINUX</text>
-  <rect class="pill" x="1004" y="360" width="85" height="30" rx="0"/>
-  <text class="pillText" x="1015" y="380">GITHUB</text>
+  <text class="head" x="670" y="328">DATABASE / TOOLS</text>
+  <rect class="pill" x="670" y="344" width="70" height="30" rx="0"/>
+  <text class="pillText" x="682" y="364">MYSQL</text>
+  <rect class="pill" x="753" y="344" width="90" height="30" rx="0"/>
+  <text class="pillText" x="766" y="364">MONGODB</text>
+  <rect class="pill" x="856" y="344" width="52" height="30" rx="0"/>
+  <text class="pillText" x="870" y="364">GIT</text>
+  <rect class="pill" x="921" y="344" width="70" height="30" rx="0"/>
+  <text class="pillText" x="934" y="364">LINUX</text>
+  <rect class="pill" x="1004" y="344" width="85" height="30" rx="0"/>
+  <text class="pillText" x="1015" y="364">GITHUB</text>
 
-  <rect class="card" x="55" y="455" width="1090" height="430" rx="0"/>
-  <text class="title" x="90" y="508">SKILL MATRIX</text>
+  <text class="head" x="670" y="406">EXTRA</text>
+  <rect class="pill" x="670" y="422" width="160" height="30" rx="0"/>
+  <text class="pillText" x="682" y="442">API INTEGRATION</text>
+  <rect class="pill" x="843" y="422" width="155" height="30" rx="0"/>
+  <text class="pillText" x="857" y="442">ART SKETCHING</text>
 
-  <text class="head" x="95" y="565">HTML5</text>
-  <rect class="barbg" x="270" y="543" width="760" height="24" rx="0"/>
-  <rect class="bar" x="270" y="543" width="760" height="24" rx="0"/>
-  <text class="text" x="1055" y="563">100%</text>
+  <rect class="card" x="55" y="475" width="1090" height="550" rx="0"/>
+  <text class="title" x="90" y="528">SKILL MATRIX</text>
 
-  <text class="head" x="95" y="610">CSS3</text>
-  <rect class="barbg" x="270" y="588" width="760" height="24" rx="0"/>
-  <rect class="bar" x="270" y="588" width="760" height="24" rx="0"/>
-  <text class="text" x="1055" y="608">100%</text>
+  <text class="head" x="95" y="585">HTML5</text>
+  <rect class="barbg" x="270" y="563" width="760" height="24" rx="0"/>
+  <rect class="bar" x="270" y="563" width="760" height="24" rx="0"/>
+  <text class="text" x="1055" y="583">100%</text>
 
-  <text class="head" x="95" y="655">JAVASCRIPT</text>
-  <rect class="barbg" x="270" y="633" width="760" height="24" rx="0"/>
-  <rect class="bar" x="270" y="633" width="684" height="24" rx="0"/>
-  <text class="text" x="1055" y="653">90%</text>
+  <text class="head" x="95" y="630">CSS3</text>
+  <rect class="barbg" x="270" y="608" width="760" height="24" rx="0"/>
+  <rect class="bar" x="270" y="608" width="760" height="24" rx="0"/>
+  <text class="text" x="1055" y="628">100%</text>
 
-  <text class="head" x="95" y="700">REACT</text>
-  <rect class="barbg" x="270" y="678" width="760" height="24" rx="0"/>
-  <rect class="bar" x="270" y="678" width="608" height="24" rx="0"/>
-  <text class="text" x="1055" y="698">80%</text>
+  <text class="head" x="95" y="675">JAVASCRIPT</text>
+  <rect class="barbg" x="270" y="653" width="760" height="24" rx="0"/>
+  <rect class="bar" x="270" y="653" width="684" height="24" rx="0"/>
+  <text class="text" x="1055" y="673">90%</text>
 
-  <text class="head" x="95" y="745">PHP</text>
-  <rect class="barbg" x="270" y="723" width="760" height="24" rx="0"/>
-  <rect class="bar" x="270" y="723" width="684" height="24" rx="0"/>
-  <text class="text" x="1055" y="743">90%</text>
+  <text class="head" x="95" y="720">REACT</text>
+  <rect class="barbg" x="270" y="698" width="760" height="24" rx="0"/>
+  <rect class="bar" x="270" y="698" width="608" height="24" rx="0"/>
+  <text class="text" x="1055" y="718">80%</text>
 
-  <text class="head" x="95" y="790">PYTHON</text>
-  <rect class="barbg" x="270" y="768" width="760" height="24" rx="0"/>
-  <rect class="bar" x="270" y="768" width="570" height="24" rx="0"/>
-  <text class="text" x="1055" y="788">75%</text>
+  <text class="head" x="95" y="765">PHP</text>
+  <rect class="barbg" x="270" y="743" width="760" height="24" rx="0"/>
+  <rect class="bar" x="270" y="743" width="684" height="24" rx="0"/>
+  <text class="text" x="1055" y="763">90%</text>
 
-  <text class="head" x="95" y="835">MYSQL</text>
-  <rect class="barbg" x="270" y="813" width="760" height="24" rx="0"/>
-  <rect class="bar" x="270" y="813" width="646" height="24" rx="0"/>
-  <text class="text" x="1055" y="833">85%</text>
+  <text class="head" x="95" y="810">PYTHON</text>
+  <rect class="barbg" x="270" y="788" width="760" height="24" rx="0"/>
+  <rect class="bar" x="270" y="788" width="570" height="24" rx="0"/>
+  <text class="text" x="1055" y="808">75%</text>
 
-  <text class="small" x="90" y="875">Clean UI • Responsive Design • Modern Frontend • Fast Debugging</text>
+  <text class="head" x="95" y="855">MYSQL</text>
+  <rect class="barbg" x="270" y="833" width="760" height="24" rx="0"/>
+  <rect class="bar" x="270" y="833" width="646" height="24" rx="0"/>
+  <text class="text" x="1055" y="853">85%</text>
+
+  <text class="head" x="95" y="900">API INTEGRATION</text>
+  <rect class="barbg" x="270" y="878" width="760" height="24" rx="0"/>
+  <rect class="bar" x="270" y="878" width="668" height="24" rx="0"/>
+  <text class="text" x="1055" y="898">88%</text>
+
+  <text class="head" x="95" y="945">LARAVEL</text>
+  <rect class="barbg" x="270" y="923" width="760" height="24" rx="0"/>
+  <rect class="bar" x="270" y="923" width="624" height="24" rx="0"/>
+  <text class="text" x="1055" y="943">82%</text>
+
+  <text class="head" x="95" y="990">ART SKETCHING</text>
+  <rect class="barbg" x="270" y="968" width="760" height="24" rx="0"/>
+  <rect class="bar" x="270" y="968" width="532" height="24" rx="0"/>
+  <text class="text" x="1055" y="988">70%</text>
+
+  <text class="small" x="90" y="1018">Clean UI • Responsive Design • Modern Frontend • Fast Debugging • Creative Thinking</text>
 </svg>
