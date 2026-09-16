@@ -76,38 +76,6 @@ alt="Top Languages"
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&width=1000&height=80&lines=GITHUB+TROPHY" alt="GitHub Trophy Heading" />
-
-<br>
-
-<img
-src="./assets/trophy.svg"
-width="100%"
-alt="GitHub Trophy"
-/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&width=1000&height=80&lines=ACTIVITY+GRAPH" alt="Activity Graph Heading" />
-
-<br>
-
-<img
-src="./assets/github-contribution-grid-snake.svg"
-width="100%"
-alt="GitHub Activity"
-/>
-
-</div>
-
----
-
-<div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&width=1000&height=80&lines=WHERE+TO+FIND+ME" alt="Where To Find Me" />
 
 <br>
@@ -116,13 +84,13 @@ alt="GitHub Activity"
 <img src="https://img.shields.io/badge/FACEBOOK-050000?style=for-the-badge&logo=facebook&logoColor=ff0033" alt="Facebook" />
 </a>
 
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/eren_yeager_1369/">
 <img src="https://img.shields.io/badge/INSTAGRAM-050000?style=for-the-badge&logo=instagram&logoColor=ff0033" alt="Instagram" />
 </a>
 
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://github.com/erenyeager94">
 <img src="https://img.shields.io/badge/GITHUB-050000?style=for-the-badge&logo=github&logoColor=ff0033" alt="GitHub" />
