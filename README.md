@@ -129,12 +129,16 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&width=1000&height=80&lines=GITHUB+TROPHY" alt="Trophy Heading" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&width=1000&height=80&lines=GITHUB+TROPHY" alt="GitHub Trophy Heading" />
 
 <br>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=erenyeager94&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" width="100%" alt="erenyeager94 GitHub Trophy" />
+<img
+src="https://github-profile-trophy.vercel.app/?username=erenyeager94&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6"
+width="100%"
+alt="erenyeager94 GitHub Trophy"
+/>
 </a>
 
 </div>
@@ -161,13 +165,13 @@
 
 <br>
 
-<a href="https://www.facebook.com/eren_yeager_1369/">
+<a href="https://www.facebook.com/yeager010/">
 <img src="https://img.shields.io/badge/FACEBOOK-050000?style=for-the-badge&logo=facebook&logoColor=ff0033" alt="Facebook" />
 </a>
 
  
 
-<a href="https://www.instagram.com/web_drink404/">
+<a href="https://www.instagram.com/yeager_010/">
 <img src="https://img.shields.io/badge/INSTAGRAM-050000?style=for-the-badge&logo=instagram&logoColor=ff0033" alt="Instagram" />
 </a>
 
@@ -183,7 +187,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&width=1000&height=80&lines=DEVELOPER+QUOTE" alt="Quote Heading" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&width=1000&height=80&lines=DEVELOPER+QUOTE" alt="Developer Quote Heading" />
 
 <br>
 
