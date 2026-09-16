@@ -32,63 +32,63 @@
 
 <div align="center">
 
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="64" height="64" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="64" height="64" />
 </a>
 &nbsp;&nbsp;
 
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="64" height="64" />
+<a href="https://www.php.net/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="64" height="64" />
 </a>
 &nbsp;&nbsp;
 
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="64" height="64" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="64" height="64" />
 </a>
 &nbsp;&nbsp;
 
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="64" height="64" />
+<a href="https://www.python.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="64" height="64" />
 </a>
 &nbsp;&nbsp;
 
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="64" height="64" />
+<a href="https://www.scala-lang.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="Scala" width="64" height="64" />
 </a>
 &nbsp;&nbsp;
 
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="64" height="64" />
+<a href="https://sass-lang.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="64" height="64" />
 </a>
 &nbsp;&nbsp;
 
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="64" height="64" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="64" height="64" />
 </a>
 &nbsp;&nbsp;
 
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="64" height="64" />
+<a href="https://react.dev/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="64" height="64" />
 </a>
 &nbsp;&nbsp;
 
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="64" height="64" />
+<a href="https://www.mongodb.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="64" height="64" />
 </a>
 &nbsp;&nbsp;
 
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="64" height="64" />
+<a href="https://www.mysql.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="64" height="64" />
 </a>
 &nbsp;&nbsp;
 
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="64" height="64" />
+<a href="https://www.linux.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="64" height="64" />
 </a>
 &nbsp;&nbsp;
 
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="64" height="64" />
+<a href="https://git-scm.com/">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="64" height="64" />
 </a>
 
 </div>
@@ -97,7 +97,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,php,python,sass,mysql,mongodb,linux,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,php,python,sass,mysql,mongodb,linux,git,github,vscode&theme=dark" alt="Skills" />
 
 </div>
 
@@ -107,17 +107,21 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&width=1000&height=80&lines=GITHUB+SYSTEM+STATS" alt="Stats Heading" />
 
-</div>
+<br>
 
-<div align="center">
+<a href="https://github.com/erenyeager94">
+<img width="48%" src="https://github-stats-extended.vercel.app/api?username=erenyeager94&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=000000&title_color=ff0033&icon_color=ff0033&text_color=ffffff" alt="erenyeager94 GitHub Stats" />
+</a>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=erenyeager94&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=000000&title_color=ff0033&icon_color=ff0033&text_color=ffffff" alt="erenyeager94 GitHub Stats" />
-
+<a href="https://git.io/streak-stats">
 <img width="48%" src="https://streak-stats.demolab.com?user=erenyeager94&theme=radical&hide_border=true&background=000000&ring=ff0033&fire=ff0033&currStreakLabel=ff0033&sideLabels=ffffff&dates=ffffff" alt="erenyeager94 Streak Stats" />
+</a>
 
 <br><br>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=erenyeager94&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=ff0033&text_color=ffffff" alt="erenyeager94 Top Languages" />
+<a href="https://github.com/erenyeager94">
+<img width="55%" src="https://github-stats-extended.vercel.app/api/top-langs?username=erenyeager94&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=ff0033&text_color=ffffff&langs_count=8" alt="erenyeager94 Top Languages" />
+</a>
 
 </div>
 
@@ -127,12 +131,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&width=1000&height=80&lines=GITHUB+TROPHY" alt="Trophy Heading" />
 
-</div>
-
-<div align="center">
+<br>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy-unserori.vercel.app/?username=erenyeager94" alt="erenyeager94 Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=erenyeager94&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" width="100%" alt="erenyeager94 GitHub Trophy" />
 </a>
 
 </div>
@@ -143,11 +145,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&width=1000&height=80&lines=ACTIVITY+GRAPH" alt="Activity Heading" />
 
-</div>
+<br>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=erenyeager94&theme=react-dark&hide_border=true&bg_color=000000&color=ff0033&line=ff0033&point=ffffff" width="100%" alt="Activity Graph" />
+<a href="https://github.com/erenyeager94">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=erenyeager94&theme=react-dark&hide_border=true&bg_color=000000&color=ff0033&line=ff0033&point=ffffff" width="100%" alt="erenyeager94 Activity Graph" />
+</a>
 
 </div>
 
@@ -157,20 +159,22 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&width=1000&height=80&lines=WHERE+TO+FIND+ME" alt="Social Heading" />
 
-</div>
+<br>
 
-<div align="center">
-
-<a target="_blank" href="https://www.facebook.com/yeager010/">
-<img src="https://img.shields.io/badge/FACEBOOK-050000?style=for-the-badge&logo=facebook&logoColor=ff0033" alt="facebook" />
+<a href="https://www.facebook.com/eren_yeager_1369/">
+<img src="https://img.shields.io/badge/FACEBOOK-050000?style=for-the-badge&logo=facebook&logoColor=ff0033" alt="Facebook" />
 </a>
 
-<a target="_blank" href="https://www.instagram.com/yeager_010/">
-<img src="https://img.shields.io/badge/INSTAGRAM-050000?style=for-the-badge&logo=instagram&logoColor=ff0033" alt="instagram" />
+ 
+
+<a href="https://www.instagram.com/web_drink404/">
+<img src="https://img.shields.io/badge/INSTAGRAM-050000?style=for-the-badge&logo=instagram&logoColor=ff0033" alt="Instagram" />
 </a>
 
-<a target="_blank" href="https://github.com/erenyeager94">
-<img src="https://img.shields.io/badge/GITHUB-050000?style=for-the-badge&logo=github&logoColor=ff0033" alt="github" />
+ 
+
+<a href="https://github.com/erenyeager94">
+<img src="https://img.shields.io/badge/GITHUB-050000?style=for-the-badge&logo=github&logoColor=ff0033" alt="GitHub" />
 </a>
 
 </div>
@@ -181,9 +185,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&width=1000&height=80&lines=DEVELOPER+QUOTE" alt="Quote Heading" />
 
-</div>
-
-<div align="center">
+<br>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Developer Quote" />
 
