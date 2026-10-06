@@ -16,7 +16,7 @@
 
 <br><br>
 
-<img src="./assets/erenyeager.gif" width="100%" alt="Hacker GIF" />
+<img src="./assets/eren.gif" width="100%" alt="Hacker GIF" />
 
 <br><br>
 
