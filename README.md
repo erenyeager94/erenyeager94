@@ -80,7 +80,7 @@ alt="Top Languages"
 
 &nbsp;
 
-<a href="https://www.instagram.com/eren_yeager_00100/">
+<a href="https://www.instagram.com/sanju_sk_13/">
 <img src="https://img.shields.io/badge/INSTAGRAM-050000?style=for-the-badge&logo=instagram&logoColor=ff0033" alt="Instagram" />
 </a>
 
