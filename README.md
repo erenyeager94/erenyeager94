@@ -72,23 +72,7 @@ alt="Top Languages"
 
 <div align="center">
 
-<h2>🌐 CONNECT WITH ME</h2>
 
-<a href="https://www.facebook.com/yeager010/">
-<img src="https://img.shields.io/badge/FACEBOOK-050000?style=for-the-badge&logo=facebook&logoColor=ff0033" alt="Facebook" />
-</a>
-
-&nbsp;
-
-<a href="https://www.instagram.com/sanju_sk_13/">
-<img src="https://img.shields.io/badge/INSTAGRAM-050000?style=for-the-badge&logo=instagram&logoColor=ff0033" alt="Instagram" />
-</a>
-
-&nbsp;
-
-<a href="https://github.com/erenyeager94">
-<img src="https://img.shields.io/badge/GITHUB-050000?style=for-the-badge&logo=github&logoColor=ff0033" alt="GitHub" />
-</a>
 
 </div>
 
